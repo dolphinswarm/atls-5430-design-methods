@@ -43,6 +43,9 @@ Annaleise's feedback for this device was:
 
 Thus, I present - the updated PEN!
 
+![PEN](img/PEN-render.png)
+_A static render of the PEN._
+
 <div class="model-embed">
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
 <model-viewer
