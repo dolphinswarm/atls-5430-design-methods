@@ -59,8 +59,20 @@ Thus, I present - the updated PEN!
 
 _3D model made in Blender - drag to orbit, scroll to zoom. [Download the .glb](model/PEN.glb)._
 
-![Content chooser screen](img/screen-content-chooser.png)
-_TODO_
+### 🤔Feedback Considerations
 
-![Sand chooser screen](img/screen-sand-chooser.png)
-_TODO_
+#### 🎛️Content Picker
+
+The first feedback item, the content picker, was updated to use _"slower ↔ faster"_ instead of _"easy ↔ hard"_. While still not super kind on the wording (maybe even moreso), it should hopefully have more semantic information about adjusting the course speed.
+
+Also, I made the background a gradient, so the color present in the picker should be a vague indication of what setting a user is. While vague (green = slower and factual?), it should at least look pretty for a background of this UI.
+
+![Content Picker](img/screen-content-chooser.png)
+_The updated content picker._
+
+#### 🎙️Sand Pit Picker
+
+The sand pit picker also incorporates the feedback. Buttons for relevant prompts, as well as a button for custom audio-driven prompts, is also included.
+
+![Sand Pit Picker](img/screen-sand-chooser.png)
+_The updated sand pit picker._
