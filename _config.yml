@@ -1,0 +1,14 @@
+# --- Site ---
+title: Design Methods
+description: ATLS 5430 · weekly coursework, prototypes, and design experiments — Brad Schmitz
+
+# --- Theme: built into GitHub Pages, no build workflow needed ---
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# --- Build ---
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
