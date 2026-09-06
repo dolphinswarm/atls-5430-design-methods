@@ -23,3 +23,64 @@
 .page-header {
   padding: 3rem 1rem;
 }
+
+/* --- week 2: future of visual design (type specimens + palette) --- */
+
+.type-specimen {
+  font-family: "Space Grotesk", "Arial Narrow", system-ui, sans-serif;
+  border: 1px solid currentColor;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0;
+}
+.type-specimen .display {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.1;
+  margin: 0;
+}
+.type-specimen .glyphs {
+  margin-top: 1rem;
+  font-weight: 400;
+  font-size: clamp(0.85rem, 2.2vw, 1.05rem);
+  letter-spacing: 0.08em;
+  line-height: 1.7;
+  opacity: 0.85;
+}
+.type-specimen .meta {
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  opacity: 0.7;
+}
+
+.palette {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 1.5rem 0;
+  font-family: "Space Grotesk", system-ui, sans-serif;
+}
+.palette .swatch {
+  border: 1px solid currentColor;
+  overflow: hidden;
+}
+.palette .chip {
+  height: 100px;
+}
+.palette .info {
+  padding: 0.6rem 0.7rem;
+}
+.palette .name {
+  display: block;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.palette .hex {
+  display: block;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  margin-top: 0.1rem;
+}
