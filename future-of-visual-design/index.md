@@ -175,8 +175,6 @@ Also, for the sake of having a "product" to sell, I'm going to claim that after 
 
 _A sample Always-Watching Safety Cameras storefront._
 
-The eye does double duty as the hyphen in _Always-Watching_, so the sign reads as three words, not four.
-
 ### 📦Product with Packaging
 
 ![Package](img/package.png)

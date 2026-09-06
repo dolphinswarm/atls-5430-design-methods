@@ -32,14 +32,14 @@ $hr-border-color:            #ccc4ac;
 :root {
   color-scheme: light dark;
 
-  --paper:      #e8e2d5;   /* page ground — a warm oat, clearly off-white   */
+  --paper:      #e8e2d5;   /* page ground: a warm oat, clearly off-white   */
   --card:       #ffffff;   /* panels: the content card, images, table head */
   --sunken:     #f1ecdf;   /* recessed: code blocks, specimens             */
   --ink:        #211e17;   /* headings, strong text                        */
   --ink-body:   #37322a;   /* body copy                                    */
   --ink-soft:   #6f6853;   /* muted: taglines, captions, footer            */
-  --accent:     #b8402a;   /* rust — links, section markers                */
-  --accent-2:   #1f6f6f;   /* teal — secondary accents, inline code        */
+  --accent:     #b8402a;   /* rust: links, section markers                 */
+  --accent-2:   #1f6f6f;   /* teal: secondary accents, inline code         */
   --rule:       #ccc4ac;   /* hairlines and borders                        */
   --grid:       rgba(33, 30, 23, 0.09);
   --hover:      rgba(33, 30, 23, 0.05);
@@ -107,7 +107,7 @@ body {
 }
 
 /* ==========================================================================
-   Header — left-aligned, dark, with a faint drafting-paper grid
+   Header: left-aligned, dark, with a faint drafting-paper grid
    ========================================================================== */
 
 .page-header {
@@ -115,14 +115,11 @@ body {
   color: var(--header-ink);
   background-color: var(--header-bg);
   background-image:
-    radial-gradient(52rem 26rem at 88% -40%, rgba(84, 181, 173, 0.18), transparent 60%),
+    radial-gradient(50rem 24rem at 85% 0%, rgba(84, 181, 173, 0.18), transparent 60%),
     repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.045) 0 1px, transparent 1px 4rem),
     repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.03) 0 1px, transparent 1px 4rem);
   border-bottom: 4px solid var(--accent);
-  padding:
-    clamp(3rem, 4vw + 2rem, 6rem)
-    clamp(1.25rem, 6vw, 6rem)
-    clamp(2.5rem, 3vw + 1.5rem, 4rem);
+  padding: clamp(3rem, 8vw, 6rem) clamp(1.25rem, 6vw, 6rem) clamp(2.5rem, 6vw, 4rem);
 }
 
 .project-name {
@@ -148,7 +145,7 @@ body {
   color: var(--header-ink);
   opacity: 0.72;
   font-weight: 400;
-  font-size: clamp(1rem, 1.4vw + 0.6rem, 1.2rem);
+  font-size: clamp(1rem, 2.5vw, 1.2rem);
   letter-spacing: 0.01em;
 }
 
@@ -176,7 +173,7 @@ body {
 }
 
 /* ==========================================================================
-   Content — lifted onto a card so white reads against the paper ground
+   Content: lifted onto a card so white reads against the paper ground
    ========================================================================== */
 
 .main-content {
@@ -409,7 +406,7 @@ body {
 }
 
 /* ==========================================================================
-   Week 02 — future of visual design (type specimens + palette)
+   Week 02: future of visual design (type specimens + palette)
    ========================================================================== */
 
 .type-specimen {
