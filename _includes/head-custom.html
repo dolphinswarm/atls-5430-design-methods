@@ -1,3 +1,56 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap">
+
+<meta name="theme-color" content="#1f1c17">
+
+<script>
+  // Set the theme before first paint so there is no flash of the wrong mode.
+  // Saved choice wins; otherwise follow the OS preference.
+  (function () {
+    try {
+      var saved = localStorage.getItem("theme");
+      var theme = saved
+        || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+    } catch (e) {
+      document.documentElement.setAttribute("data-theme", "light");
+    }
+  })();
+</script>
+
+<script>
+  // Build a persistent light/dark toggle and wire it to localStorage.
+  (function () {
+    function build() {
+      var root = document.documentElement;
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "theme-toggle";
+
+      function sync() {
+        var dark = root.getAttribute("data-theme") === "dark";
+        btn.textContent = dark ? "☀" : "☾"; // sun / moon
+        btn.title = dark ? "Switch to light mode" : "Switch to dark mode";
+        btn.setAttribute("aria-label", btn.title);
+        btn.setAttribute("aria-pressed", String(dark));
+      }
+
+      btn.addEventListener("click", function () {
+        var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        root.setAttribute("data-theme", next);
+        try { localStorage.setItem("theme", next); } catch (e) {}
+        sync();
+      });
+
+      sync();
+      document.body.appendChild(btn);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", build);
+    } else {
+      build();
+    }
+  })();
+</script>
