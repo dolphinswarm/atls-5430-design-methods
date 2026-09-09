@@ -73,7 +73,7 @@ It also clears the one typography rule the regime actually enforces: no corporat
 
 ### 🎨Color
 
-While the brief allows for unlimited color, the future is bleak and dreary, so no need for lots of color. Also, from a propaganda perspective, color is unnecessary and excites unwanted feelings of joy and happiness. A greyscale palette feels emotionless and institutional, so 90% of the system is black, white, and grey. To add a _bit_ of color, there's dark green, which couples well with the greyscale palette to give a cyberspace/digital feeling.
+The brief allows for unlimited color. However, the future is bleak and dreary, and from a propaganda perspective, color is unnecessary and excites unwanted feelings of joy and happiness. A greyscale palette feels emotionless and institutional, so the main crux of the system is black, white, and grey. To add a _bit_ of color, the system also allows for shades of green (greenscale?), which couples well with the greyscale palette to give a cyberspace/digital feeling.
 
 ### 🪬Symbol
 
