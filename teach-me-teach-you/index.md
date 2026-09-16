@@ -85,9 +85,9 @@ _The final song I made, with a simple drum beat, a bassline, and some chords._
   Your browser does not support the audio element. <a href="audio/beat.wav">Download the audio</a> instead.
 </audio>
 
-<details class="contraband">
+<details class="contraband" markdown="1">
   <summary>View the Strudel code</summary>
-  <div class="body">
+  <div class="body" markdown="1">
 
 ```
 setcps(0.9)
