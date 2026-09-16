@@ -55,25 +55,35 @@
   })();
 </script>
 
-{% if page.content contains "language-mermaid" %}
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 <script>
-  // Kramdown turns a ```mermaid fence into a highlighted code block; convert
-  // it to the <pre class="mermaid"> shape Mermaid expects, then render it.
-  // Re-renders on theme toggle since Mermaid bakes colors into the SVG.
+  // Kramdown turns a ```mermaid fence into <pre><code class="language-mermaid">
+  // (no wrapping div here — this site's Kramdown build skips Rouge's div
+  // wrapper). Convert whichever shape shows up to the <pre class="mermaid">
+  // Mermaid expects, then render. Re-renders on theme toggle since Mermaid
+  // bakes colors into the SVG at render time. A no-op on pages with no
+  // mermaid blocks, so it's safe to include everywhere.
   (function () {
     function currentTheme() {
       return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "default";
     }
 
+    function findMermaidCode() {
+      var nodes = new Set();
+      document.querySelectorAll("code.language-mermaid").forEach(function (c) { nodes.add(c); });
+      document.querySelectorAll(".language-mermaid").forEach(function (el) {
+        var code = el.tagName === "CODE" ? el : el.querySelector("code");
+        if (code) nodes.add(code);
+      });
+      return Array.from(nodes);
+    }
+
     function convertBlocks() {
-      document.querySelectorAll(".language-mermaid").forEach(function (node) {
-        var code = node.querySelector("code");
-        if (!code) return;
+      findMermaidCode().forEach(function (code) {
         var pre = document.createElement("pre");
         pre.className = "mermaid";
         pre.textContent = code.textContent;
-        node.replaceWith(pre);
+        (code.closest("pre") || code).replaceWith(pre);
       });
     }
 
@@ -103,4 +113,3 @@
     }
   })();
 </script>
-{% endif %}
