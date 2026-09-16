@@ -338,6 +338,21 @@ body {
   background: transparent;
 }
 
+/* ---- mermaid diagrams: scale up to fill the card instead of Mermaid's
+   own compact default size (it sets an inline max-width on the svg) ---- */
+
+.main-content .mermaid {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.main-content .mermaid svg {
+  width: 100% !important;
+  max-width: none !important;
+  height: auto !important;
+  min-width: 600px;
+}
+
 /* ---- rule: a dashed accent stripe instead of a flat grey bar ---- */
 
 .main-content hr {
