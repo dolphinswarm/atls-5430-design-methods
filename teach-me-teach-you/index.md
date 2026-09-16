@@ -26,7 +26,7 @@ Between both these exercises, the big takeaway is conveying information through 
 
 ## 🛠️Part 2 - Building a New Skill
 
-For this part of the assignment, I chose to mess around in Strudel, a live coding platform for writing dynamic music. While I have music and coding experience both, I've never used this particular language / libary before, so I wanted to see how quickly I could write a simple song with it.
+For this part of the assignment, I chose to mess around in [Strudel](https://strudel.cc/), a live coding platform for writing dynamic music. While I have music and coding experience both, I've never used this particular language / libary before, so I wanted to see how quickly I could write a simple song with it.
 
 I had no frame of reference for how to actually use it, and when you go to the website, you're greeted with:
 
@@ -38,20 +38,40 @@ _The Strudel interface, which has one line of code, a side panel, and some links
 ### Reflection: System Image, Before and After
 
 ```mermaid
-flowchart TD
-    A["What I assumed Strudel *was*"] --> B["What I assumed you *do* with it"]
-    B --> C["What I expected to come out"]
+flowchart LR
+    subgraph image["What Strudel showed me, cold"]
+        A["One line of code"]
+        B["A side panel"]
+        C["A few links"]
+    end
+    subgraph model["What I assumed, with zero context"]
+        A --> A1["___"]
+        B --> B1["___"]
+        C --> C1["___"]
+    end
 ```
 
-TODO
+Strudel's starting UI is about as unintuitive as it gets. The one line of code is a blank canvas is gibberish.
+
+I hit the "▶️Play" button and it played a drum beat.
 
 ```mermaid
-flowchart TD
-    A["What Strudel actually is"] --> B["The real steps to make something"]
-    A --> C["A concept I had to unlearn"]
-    B --> D["Where I got stuck"]
-    D --> E["What clicked once I got past it"]
-    C --> E
+flowchart LR
+    subgraph image["What Strudel shows me (unchanged)"]
+        A["One line of code"]
+        B["A side panel"]
+        C["A few links"]
+        D["___ a cue I missed the first time"]
+    end
+    subgraph model["My corrected mental model"]
+        A --> A2["___ what it actually does"]
+        B --> B2["___"]
+        C --> C2["___"]
+        D --> D2["___"]
+        N1["___ new concept from the resource"]
+        N2["___ another one, if needed"]
+        N1 --> N2
+    end
 ```
 
 AFTER
