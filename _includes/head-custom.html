@@ -54,3 +54,53 @@
     }
   })();
 </script>
+
+{% if page.content contains "language-mermaid" %}
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>
+  // Kramdown turns a ```mermaid fence into a highlighted code block; convert
+  // it to the <pre class="mermaid"> shape Mermaid expects, then render it.
+  // Re-renders on theme toggle since Mermaid bakes colors into the SVG.
+  (function () {
+    function currentTheme() {
+      return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "default";
+    }
+
+    function convertBlocks() {
+      document.querySelectorAll(".language-mermaid").forEach(function (node) {
+        var code = node.querySelector("code");
+        if (!code) return;
+        var pre = document.createElement("pre");
+        pre.className = "mermaid";
+        pre.textContent = code.textContent;
+        node.replaceWith(pre);
+      });
+    }
+
+    function render() {
+      var blocks = document.querySelectorAll(".mermaid");
+      if (!blocks.length) return;
+      blocks.forEach(function (block) {
+        if (!block.dataset.src) block.dataset.src = block.textContent;
+        block.removeAttribute("data-processed");
+        block.textContent = block.dataset.src;
+      });
+      mermaid.initialize({ startOnLoad: false, theme: currentTheme() });
+      mermaid.run({ nodes: blocks });
+    }
+
+    function init() {
+      convertBlocks();
+      render();
+      var toggle = document.querySelector(".theme-toggle");
+      if (toggle) toggle.addEventListener("click", render);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+  })();
+</script>
+{% endif %}

@@ -7,6 +7,7 @@ Coursework site, published with GitHub Pages: **https://<username>.github.io/atl
 - **Jekyll** (built into GitHub Pages — no Actions workflow required).
 - Content is **Markdown**. The theme is [`jekyll-theme-cayman`](https://github.com/pages-themes/cayman); tweak it in [`assets/css/style.scss`](assets/css/style.scss).
 - Each week is a **folder** with an `index.md` (write-up) and/or an `index.html` (interactive prototype). Images live in an `img/` subfolder.
+- Flowcharts/diagrams can be written as text with [Mermaid](https://mermaid.js.org/) — use a fenced ` ```mermaid ` code block in any page. It's rendered client-side (wired up in [`_includes/head-custom.html`](_includes/head-custom.html)) and only loads on pages that actually use it. Follows the site's light/dark toggle.
 
 ```
 _config.yml            site settings + theme
