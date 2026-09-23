@@ -15,6 +15,7 @@ week's folder, be it a short write-up, sketches, and any working prototype.
 | 01  | [Magical Interface](magical-interface/)             | A pen + sand interface — from partner interview to high-fidelity prototype. |
 | 02  | [Future of Visual Design](future-of-visual-design/) | An identity for a surviving "security" company under a post-brand regime.   |
 | 03  | [Teach Me, Teach You](teach-me-teach-you/)          | Testing a partner's visual instructions, then teaching myself a new tool.   |
+| 04  | [Trust the Process](trust-the-process/)             | Redrawing a partner's map of how I learn, then mining it for friction.      |
 
 <!-- END WEEKS -->
 
