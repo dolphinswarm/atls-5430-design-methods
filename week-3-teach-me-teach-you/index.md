@@ -1,11 +1,11 @@
 ---
-title: Teach Me, Teach You (Continued)
+title: Teach Me, Teach You
 description: Week 03 · Testing a partner's instructions, then building a new skill from scratch
 ---
 
 [← All weeks](../)
 
-## Brief
+## 📝Brief
 
 _In class, me and a partner wrote five visual-only instructions to teach each other something. This assignment has two parts: try out each other's
 instructions and reflect on how your mental model shifted, then run the same
@@ -18,15 +18,15 @@ kind of experiment on yourself with a tool of your choosing._
 ![Instructions](img/instructions.jpg)
 _The visual instructions I made for concocting a whiskey sour._
 
-For my activity, I described how to make a whiskey sour cocktail. While initially thinking it would be easy, I quickly realized the numerous gaps in my instructions/"design model", and how they might mess with a user's conceptual model. For starters, representing ingredients forced me to rely on some very abstract signifier: a bottle with sugarcane for simple syrup, a jug with corn for whiskey, a "bitter" face emote for Angostura bitters, etc. Even with these signifiers, someone without domain knowledge might have no idea what these ingredients are. Additionally, I had to use pie charts for ratios (i.e. something like 🌕🌕 for the whiskey, 🌗 for the simple syrup, etc.), since numbers weren't allowed. Thankfully, my partner had some existing domain knowledge (his old roommate was a bartender), but without this, the system image would fail to communicate pretty much anything effectively to a true beginner.
+For my activity, I described how to make a whiskey sour cocktail. While initially thinking it would be easy, I quickly realized the numerous gaps in my instructions/"design model", and how they might mess with a user's conceptual model. For starters, representing ingredients forced me to rely on some very abstract signifier: a bottle with sugarcane for simple syrup, a jug with corn for whiskey, a "bitter" face emote for Angostura bitters, etc. Even with these signifiers, someone without domain knowledge might have no idea what these ingredients are. I also had to use pie charts for ratios (i.e. something like 🌕🌕 for the whiskey, 🌗 for the simple syrup, etc.), since numbers weren't allowed. Thankfully, my partner had some existing domain knowledge (his old roommate was a bartender), but without this, the system image would fail to communicate pretty much anything effectively to a true beginner.
 
-My partner's instructions were for stopping on skis, which I felt worked well with making a conceptual model. I have some prior skiing knowledge, but even for someone unfamiliar with skiing, I felt his system image worked well generally. His use of footprints to show foot positioning, direction lines / arrows, and other symbols provided some good signifiers of what each step was. However, his inclusion of a "pizza" shape (which is a metaphor used when telling people how to stop skis) highlighted how visual instructions can rely on these metaphors, and someone without that background would experience a breakdown in their mental model (i.e., "why a pizza"?). Additionally, while the 2D diagrams effectively showed horizontal directional intent, they didn't convey vertical ski movement, other body movements, etc.
+My partner's instructions were for stopping on skis, which I felt worked well with making a conceptual model. I have some prior skiing knowledge, but even for someone unfamiliar with skiing, I felt his system image worked well generally. His use of footprints to show foot positioning, direction lines / arrows, and other symbols provided some good signifiers of what each step was. However, his inclusion of a "pizza" shape (which is a metaphor used when telling people how to stop skis) highlighted how visual instructions can rely on these metaphors, and someone without that background would experience a breakdown in their mental model (i.e., "why a pizza"?). And while the 2D diagrams effectively showed horizontal directional intent, they didn't convey vertical ski movement, other body movements, etc.
 
 Between both these exercises, the big takeaway is conveying information through a system image built only on one's own conceptual model is HARD. Not knowing the gaps, or having to rely on vague signifiers for conveying info, can cause lots of communication issues of a system, especially for a true beginner of a topic.
 
 ## 🛠️Part 2 - Building a New Skill
 
-For this part of the assignment, I chose to mess around in [Strudel](https://strudel.cc/), a live coding platform for writing dynamic music. While I have music and coding experience both, I've never used this particular language / libary before, so I wanted to see how quickly I could write a simple song with it.
+For this part of the assignment, I chose to mess around in [Strudel](https://strudel.cc/), a live coding platform for writing dynamic music. While I have music and coding experience both, I've never used this particular language / library before, so I wanted to see how quickly I could write a simple song with it.
 
 My SMART goal was:
 
@@ -57,7 +57,7 @@ flowchart LR
     end
 ```
 
-Strudel's starting UI is about as unintuitive as it gets. The one line of code is a blank canvas is gibberish, without any knowledge of the syntax itself. There's a small menu up top with the "▶️play" button, as well as some other links with confusing functionality. Additionally, there's a side panel with a bunch of tabs, many of which seemed very... obtuse.
+Strudel's starting UI is about as unintuitive as it gets. The one line of code on a blank canvas is gibberish, without any knowledge of the syntax itself. There's a small menu up top with the "▶️play" button, as well as some other links with confusing functionality. There's also a side panel with a bunch of tabs, many of which seemed very... obtuse.
 
 I hit the "▶️Play" button and it played a drum beat. Splendid. One nice thing about the UI is it highlights what's actively playing:
 
@@ -120,4 +120,4 @@ flowchart LR
     end
 ```
 
-What's crazy to me is, upon reflection, how much I struggled with Strudel despite having significant prior experience with music and coding. I think this is a good example of how a difficult a system image can be to understand, even for someone with domain knowledge. The UI was very obtuse, and the lack of an onboarding experience made it very difficult to get started. I'm not sure the designers of Strudel's web UI intended for it to be a "good experience" and just assume you have a certain level of knowledge, but this demonstrates a lack of effort in designing a system image that is accessible to a wider audience, or even a niche audience for that matter. Without this assignment, I likely would've gotten scared away very quickly.
+What's crazy to me is, upon reflection, how much I struggled with Strudel despite having significant prior experience with music and coding. I think this is a good example of how difficult a system image can be to understand, even for someone with domain knowledge. The UI was very obtuse, and the lack of an onboarding experience made it very difficult to get started. I'm not sure the designers of Strudel's web UI intended for it to be a "good experience" and just assume you have a certain level of knowledge, but this demonstrates a lack of effort in designing a system image that is accessible to a wider audience, or even a niche audience for that matter. Without this assignment, I likely would've gotten scared away very quickly.

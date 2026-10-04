@@ -20,7 +20,7 @@ _The result. Embed images from an `img/` folder next to this file:_
 ![alt text](img/example.png)
 
 _For an interactive prototype, add an `index.html` in this folder instead of (or
-alongside) this file — GitHub Pages serves it directly._
+alongside) this file. GitHub Pages serves it directly._
 
 ## Reflection
 

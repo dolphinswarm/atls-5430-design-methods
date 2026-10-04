@@ -1,22 +1,22 @@
 ---
-title: Always-Watching Safety Cameras - Future of Visual Design
-description: Week 2
+title: Future of Visual Design
+description: Week 02 · An identity for a surviving "security" company under a post-brand regime
 ---
 
 [← All weeks](../)
 
 ## 📝Brief
 
-2029, former Republic of Bezoslavia: after the Second Corporate War of Alphabets,
+_2029, former Republic of Bezoslavia: after the Second Corporate War of Alphabets,
 the new regime has banned all organizational branding (logos, trademarks, ads)
 as well as, due to a concession to the High Church of Imagery, all photorealism. Signs and
 packages get **at most three English words** describing their contents. Still
 legal: abstract forms/symbols, non-photoreal representational imagery,
-non-corporate typefaces, unlimited color.
+non-corporate typefaces, unlimited color._
 
-**Task:** pitch a post-brand visual communication system for one surviving 2026
+_**Task:** pitch a post-brand visual communication system for one surviving 2026
 company, applied to a **storefront**, a **product package**, and **one more
-piece of collateral**.
+piece of collateral**._
 
 ---
 
@@ -26,7 +26,7 @@ piece of collateral**.
 
 Because of the wording of the prompt, my mind immediately went down the "dystopian" angle, thinking of the "technofascist" companies of today. I thought it'd be an interesting exercise to try putting a positive spin on a blatantly evil company, all while adding subtle hints of criticism. Essentially, I'm making propaganda, so that when the robot police dogs attack, I can claim on my resume I have valuable propagandizing experience and will be spared.
 
-While there are many _splendid_ companies to choose from in this realm of technology, I decided on **⬛lock** since a) they're probably the most topical right now, and b) they have an easily identifiable "product"/"service". Other companies, like **⬛alantir**, tend to be more nebulous in what they actually do.
+While there are many _splendid_ companies to choose from in this area of technology, I decided on **⬛lock** since a) they're probably the most topical right now, and b) they have an easily identifiable "product"/"service". Other companies, like **⬛alantir**, tend to be more nebulous in what they actually do.
 
 ## 🖼️Mood Board
 
@@ -34,7 +34,7 @@ While there are many _splendid_ companies to choose from in this realm of techno
 
 _The mood board for this company._
 
-**⬛lock**'s main visible "commodity" of cameras gives it an immediate, obvious metaphor: eyes. 👁️👁️ After all, cameras are essentially mechanical eyes: diaphragm vs iris, aperture vs pupil, etc. Additionally, these cameras are constantly monitoring, which is what eyes do: always watch.
+**⬛lock**'s main visible "commodity" of cameras gives it an immediate, obvious metaphor: eyes. 👁️👁️ After all, cameras are essentially mechanical eyes: diaphragm vs iris, aperture vs pupil, etc. Plus, these cameras are constantly monitoring, which is what eyes do: always watch.
 
 A lot of inspiration was also drawn from:
 
@@ -129,7 +129,7 @@ I decided upon:
   <p class="display">Always-Watching Safety Cameras</p>
 </div>
 
-This pulls from each of the three buckets, while having a "Big Brother" feel. It also meet's the regime's criteria of using three or less words that "specifically describe their contents," and counts hyphenated/compound words as one. Every word is literal as well: they _are_ cameras, they _are_ sold for/"provide" "safety", and they _do_ constantly track, AKA "watch".
+This pulls from each of the three buckets, while having a "Big Brother" feel. It also meets the regime's criteria of using three or less words that "specifically describe their contents," and counts hyphenated/compound words as one. Every word is literal as well: they _are_ cameras, they _are_ sold for/"provide" "safety", and they _do_ constantly track, AKA "watch".
 
 ---
 
@@ -143,7 +143,7 @@ Also, for the sake of having a "product" to sell, I'm going to claim that after 
 
 ![Storefront](img/storefront-v2.png)
 
-_A sample Always-Watching Safety Cameras storefront._
+_A sample Always-Watching Safety Cameras storefront. The eye stands in for the dot on the "i" in "Watching" (a peer feedback suggestion). "Safety" is set in bold because it's the friendliest word, so it's the one the propaganda leans on. Green is saved for the awning and the eye._
 
 <details class="contraband">
   <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
@@ -157,10 +157,10 @@ _A sample Always-Watching Safety Cameras storefront._
 
 ![Package](img/package.png)
 
-_A sample Always-Watching Safety Cameras package._
+_A sample Always-Watching Safety Cameras package. The aperture eye takes one face and the three-word name takes the other, with nothing else on the box, per the regime's word limit._
 
 <details class="contraband">
-  <summary>View illegal, non-compliant imagery with a previous "symbol" iteration<</summary>
+  <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
   <div class="body">
     <p class="stamp">Restricted &middot; Photoreal reference &middot; Packaging &middot; Viewing logged and retained</p>
     <img src="img/product-pr.png" alt="Photorealistic product-packaging render, non-compliant under the regime's imagery ban">
@@ -171,10 +171,10 @@ _A sample Always-Watching Safety Cameras package._
 
 ![Camera](img/camera.png)
 
-_A sample Always-Watching Safety Cameras camera._
+_A sample Always-Watching Safety Cameras camera. The aperture eye sits on the housing, and the green status light is the only color on the unit, echoing the green accent from the rest of the system._
 
 <details class="contraband">
-  <summary>View illegal, non-compliant imagery with a previous "symbol" iteration<</summary>
+  <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
   <div class="body">
     <p class="stamp">Restricted &middot; Photoreal reference &middot; Camera unit &middot; Viewing logged and retained</p>
     <img src="img/camera-pr.png" alt="Photorealistic camera render, non-compliant under the regime's imagery ban">
@@ -189,7 +189,7 @@ _A sample Always-Watching Safety Cameras camera._
 
 Some points of feedback included:
 
-- **Make the storefront more readable and visually egaging**: I agree wholeheartedly. For reference, here's the old mockup:
+- **Make the storefront more readable and visually engaging**: I agree wholeheartedly. For reference, here's the old mockup:
 
   ![Storefront](img/storefront.png)
 
@@ -203,7 +203,7 @@ Some points of feedback included:
 
   ...which I found very interesting. I played around with a bit, and found it worked pretty well with the correct color scheme, so I added it to the final design.
 
-  Which, that led me to simplify the colors as well, in order to have more options visually for the company. My first draft had a whole "totally not branding" color guide of specific colors:
+  Which, that led me to simplify the colors as well, to have more options visually for the company. My first draft had a whole "totally not branding" color guide of specific colors:
 
     <div class="palette">
     <div class="swatch">
@@ -239,7 +239,7 @@ Some points of feedback included:
   ...but a) since that's more traditional branding, and b) it's very limiting, into the garbage bin it goes 🚮
 
 - **Change the hyphenation to "Always Watching Safety-Cameras"**: I decided not to do this one; it does make sense to me, but in the end I felt my original name is more descriptive. I talk about this in [Naming](#naming), but with a restrictive three-word limit, each word needs to have a purpose. Maybe just to me, _always-watching + safety + cameras_ is more descriptive than _always + watching + safety-cameras_. Also, _always-watching_ feels like a more proper hyphenation than _safety-cameras_, but again... maybe just me.
-- **Make the eye look more robotic/simplify the design for smaller sizes**: I agree with this one too; I think the earlier attempts at this were too complex. Getting feedback from multiple people on this made me re-think how the eye could subtlety be more mechanical and evil, and what I found was using a literal camera aperature design worked best. It's a) simpler / less lines, so it'll look less cluttered at smaller sizes, and b) more related to cameras.
+- **Make the eye look more robotic/simplify the design for smaller sizes**: I agree with this one too; I think the earlier attempts at this were too complex. Getting feedback from multiple people on this made me re-think how the eye could subtly be more mechanical and evil, and what I found was using a literal camera aperture design worked best. It's a) simpler / less lines, so it'll look less cluttered at smaller sizes, and b) more related to cameras.
 
 <div class="flow">
   <img src="img/evil-eye.png" alt="Evil eye, version 1: a detailed illustrative human eye with full lashes and a fine green radial iris">
@@ -249,5 +249,15 @@ Some points of feedback included:
   <img src="img/evil-eye-v3.png" alt="Evil eye, version 3: a solid iris disc with a hexagonal camera aperture cut into it">
   <p><b>v1</b> The original design.</p>
   <p><b>v2</b> A slight re-design for the draft submission, dropping the thick eyelids for one thinner top eyelid, meant to emphasize the iris more.</p>
-  <p><b>v3</b> The peer feedback revision, shrinking the iris a tad to make it fit within bounds better and swapping the inner design for a camera aperature.</p>
+  <p><b>v3</b> The peer feedback revision, shrinking the iris a tad to make it fit within bounds better and swapping the inner design for a camera aperture.</p>
 </div>
+
+---
+
+## 💭Reflection
+
+Looking back, this was an interesting exercise for sure, but also a frustrating one since I didn't quite understand the prompt and its specifics. To that end, I assume that was purposeful and open-ended, to see how we would interpret it. I think it's a reflection on me and my thinking to need more clarity on a prompt, whereas the real world often will have ambiguity and uncertainty, and I need to be able to work with that. Creativity involves thinking "outside the box" and seeing how we can manifest new ideas, and in my opinion I was in the box on this one. Maybe peeking out the box with trying to do a propaganda spin on a dystopian company, but still in the box nontheless. The examples in-class of the Mexico City food stalls and the Parisian storefronts were very helpful in looking at this exercise in a new light, and given that, there's a lot I would do differently if I were to do this again.
+
+We talked about it in class, but with capitalism and the requirement of a homogoneous brand system for franchises/corportations for recognition, I think there's a lot of interesting discussion on how to have a uniform system that is still unique to each location, and how to have a system that is recognizable but not a "logo" or "trademark" in the traditional sense.
+
+The biggest regret is making a logo. I know the prompt specifically said not to make a logo, and I tried to cheekily frame it as a "symbol," but the regime would have for sure sent me to the gulag for that. What dictates a "symbol" vs. a "logo" is still pretty confusing to me, but I think the takeway for me is to focus more on the "system" and less on the "mark".

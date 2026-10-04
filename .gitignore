@@ -9,3 +9,6 @@ vendor/
 # OS
 .DS_Store
 Thumbs.db
+
+# Private working notes
+_notes.md

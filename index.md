@@ -4,20 +4,18 @@ description: ATLS 5430 · Weekly Coursework, Prototypes, and Design Experiments
 ---
 
 A running log for **ATLS 5430 · Design Methods**. Each entry below links to that
-week's folder, be it a short write-up, sketches, and any working prototype.
+week's write-up, sketches, and prototypes.
 
 ## Weeks
 
-<!-- ADD A WEEK: copy the line below, bump the number, point it at the new folder. -->
-
-| #   | Week                                                | Notes                                                                       |
-| --- | --------------------------------------------------- | --------------------------------------------------------------------------- |
-| 01  | [Magical Interface](magical-interface/)             | A pen + sand interface — from partner interview to high-fidelity prototype. |
-| 02  | [Future of Visual Design](future-of-visual-design/) | An identity for a surviving "security" company under a post-brand regime.   |
-| 03  | [Teach Me, Teach You](teach-me-teach-you/)          | Testing a partner's visual instructions, then teaching myself a new tool.   |
-| 04  | [Trust the Process](trust-the-process/)             | Redrawing a partner's map of how I learn, then mining it for friction.      |
-
-<!-- END WEEKS -->
+| #   | Week                                                       | Notes                                                                      |
+| --- | ---------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 01  | [Magical Interface](week-1-magical-interface/)             | A pen + sand interface, from partner interview to high-fidelity prototype. |
+| 02  | [Future of Visual Design](week-2-future-of-visual-design/) | An identity for a surviving "security" company under a post-brand regime.  |
+| 03  | [Teach Me, Teach You](week-3-teach-me-teach-you/)          | Testing a partner's visual instructions, then teaching myself a new tool.  |
+| 04  | [Trust the Process](week-4-trust-the-process/)             | Redrawing a partner's map of how I learn, then mining it for friction.     |
+| 05  | [Cognitive Reloading](week-5-cognitive-reloading/)         | A group prototype that gradually hands cognitive work back to the user.    |
+| 06  | [The Senses](week-6-the-senses/)                           | Reflecting on a designed experience that isn't primarily visual.           |
 
 ---
 
