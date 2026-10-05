@@ -99,21 +99,13 @@ For this week's technical learning, I went back to [Strudel](https://strudel.cc/
 
 In my opinion, it's a fair test of friction because it's the same setup as the bouzouki: a steep learning curve, and wanting to jump in and do crazy things without a good foundation. The practice is the coding version of "one bite at a time": watch an example, pause, and try out one new concept, without adding the next one until that one works.
 
-I also borrowed from how Silas learns. When I interviewed him, he talked about watching videos at his own pace (pausing, skipping, watching at higher speeds) and making sure he has time to tinker. Staying focused is something I struggle with too, so I did the same: look at an example, then pause to tinker.
+I also borrowed from how Silas learns. When I interviewed him, he talked about watching videos at his own pace (pausing, skipping, watching at higher speeds) and making sure he has time to tinker. Staying focused is something I struggle with too, so I did the same: look at an example, then pause to play around a bit on my own before moving on.
 
 The practice uses the friction itself as the cue. When I feel the urge to layer on a second new method before the first one is working, or the code breaks, that's when I stop piling on, pause, re-watch the example, and go back to adding just one thing.
 
 ### 📈How It Went
 
-I spent all of last week complaining about how annoying Strudel was, but this time around I found it more intuitive and enjoyable, and I learned more. It's still a VERY steep learning curve, but a) I had a better foundation from last week, albeit not much, and b) I did a better job of setting up my own learning process.
-
-The times it broke were the times I tried to combine multiple concepts at once. I'd watch something, tinker a bit, and it would break; I'd get confused, then re-watch and notice I'd missed some vital syntax. That backed up the "one tinker at a time" approach.
-
-### 📚Connecting to the Reading
-
-Short-term memory is the weak link in that loop. Holding a new piece of syntax in my head long enough to use it, while also tinkering, is exactly where things fell apart, which is why one concept at a time worked better than trying to combine several.
-
-The idea of "knowledge in the head" vs. "knowledge in the world" also fit. For a program like Strudel, I don't have much head knowledge, so I have to lean on knowledge in the world: online documentation, videos, etc. That's what makes Strudel's own docs so frustrating. A number of methods that were important to my final piece straight-up weren't in them. It's the same gap I ran into [last week](../week-3-teach-me-teach-you/), where the reference tab listed functions without showing how to use them: a failure of design in the docs, because they don't put the knowledge into the world where I need it.
+I spent all of last week complaining about how annoying Strudel was, but this time around I found it more intuitive and enjoyable. It's still a VERY steep learning curve, but a) I had a better foundation from last week, albeit not much, and b) I did a better job of setting up my own learning process. The times it broke were the times I tried to combine multiple concepts at once, backing up the"one tinker at a time" approach.
 
 ### 🎵The Result
 
@@ -212,3 +204,13 @@ stack(
 </details>
 
 Compared to [last week's](../week-3-teach-me-teach-you/) two-chord loop, this one has an actual arrangement: parts enter over time and sections alternate.
+
+---
+
+## 💭Reflection
+
+Honestly, this assignment might be the biggest takeaway from the class thus far: dissecting how I learn, and putting an emphasis on improving it. Over the last few years and with the rise of AI in my profession of software engineering, I think I somewhat lost touch with learning, so putting it under a microscope is a good way to notice "oh wait, I need to get back to it".
+
+It's a little funny reading this next to [Week #3](../week-3-teach-me-teach-you/#reflection), where I spent most of the page bitching about how hard Strudel was to get into. Now here I am, arguing that friction is worth keeping. I think the difference is _where_ the friction is. Struggling with the syntax, arrangement, etc. is the useful kind: it's the "edge of what I can do" stretch from [Part 3](#part-3-where-the-friction-lives); i.e., it's "delayed gratification". Struggling to find the beginner docs in the first place isn't. That friction doesn't teach me anything about making music; it just makes me want to quit before I start.
+
+It's interesting that my [Week #1](../week-1-magical-interface/) project ended up being so similar. Someone tells me how they learn, and I turn around and make something related. Though, Week #4 was more about diving deeper into the learning itself, whereas Week #1 was attempting to make something to address the issues. To tie it to [Week #5](../week-5-cognitive-reloading/)'s prototype learning, Week #4 was the research step of the prototyping process, and Week #1 was making the prototype itself from the feedback.
