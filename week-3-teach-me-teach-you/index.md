@@ -5,6 +5,12 @@ description: Week 03 · Testing a partner's instructions, then building a new sk
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## 📝Brief
 
 _In class, my partner Pierce and I wrote five visual-only instructions to teach each other something. This assignment has two parts: try out each other's

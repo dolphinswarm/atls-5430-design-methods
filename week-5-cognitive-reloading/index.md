@@ -5,6 +5,12 @@ description: Week 05 · Prototyping an app that gradually hands cognitive work b
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## 📝Brief
 
 _Thanks to the miracles of technology, we've extended our capability into the world: navigation, memory, coordination, conversation! And yet, there are those amongst us who desire to take back certain functions from the machine. Working in groups, develop a prototype application that is built to gradually transfer the cognitive workload back to the user._

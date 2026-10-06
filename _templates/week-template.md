@@ -5,6 +5,12 @@ description: Week NN · one-line summary
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## Brief
 
 _The assignment prompt and constraints._

@@ -5,6 +5,12 @@ description: Week 02 · An identity for a surviving "security" company under a p
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## 📝Brief
 
 _2029, former Republic of Bezoslavia: after the Second Corporate War of Alphabets,

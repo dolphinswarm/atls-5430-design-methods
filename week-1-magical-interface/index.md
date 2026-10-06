@@ -5,6 +5,12 @@ description: Week 01 · A pen + sand interface, from partner interview to high-f
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## 📝Brief
 
 _Take the interface concept developed for a partner in the first class and,

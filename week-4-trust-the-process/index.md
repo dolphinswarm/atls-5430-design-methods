@@ -5,6 +5,12 @@ description: Week 04 · Redrawing a partner's map of my learning process, then m
 
 [← All weeks](../)
 
+**Contents**
+
+<!-- prettier-ignore -->
+* TOC
+{:toc}
+
 ## 📝Brief
 
 **Named after the Philadelphia 76ers' "Trust the Process" rebuild: years of short-term pain for a long-term payoff. Fitting, given where this map ends up 🤪**
