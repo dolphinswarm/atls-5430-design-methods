@@ -12,3 +12,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+# --- Plugins ---
+plugins:
+  - jekyll-redirect-from # keeps old week URLs working after renames

@@ -1,6 +1,8 @@
 ---
-title: The Senses
+title: Multisensory Space
 description: Week 06 · Reflecting on a designed experience that isn't primarily visual
+redirect_from:
+  - /week-6-the-senses/
 ---
 
 [← All weeks](../)
