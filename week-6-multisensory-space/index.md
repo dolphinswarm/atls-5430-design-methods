@@ -77,30 +77,18 @@ So the starting idea was to subvert all of that, pull in some car inspiration, a
 
 The car inspiration turned into recreating the relief of getting into your car after a bad day. Slam the door, and you're suddenly in a semi-private spot to express whatever frustrations you have. The idea became a separate exit hallway from the counter to the parking lot that gives you that feeling before you even reach the car, so you never have to walk back through the lobby past everyone still waiting.
 
-Since people leaving just want to get to their car, it can't ask anything of them (no stopping, no interacting, nothing touching them), and it has to work at walking speed: straight through takes under a minute.
+Since people leaving just want to get to their car, it can't ask anything of them (no required stops, no interacting, nothing touching them), and it has to work at walking speed. Walking straight through takes about 30 seconds; stopping to vent or sit in the nook can stretch it up to 5 minutes.
 
 ### 🗺️Look & Feel: Annotated Diagram
 
 ![Annotated diagram of the space](img/diagram.png)
-_The Off-Ramp: a separate exit hallway along the DMV's right wall, from the counter to the parking lot._
+_The Off-Ramp floor plan._
 
-From the counter, you push through a heavy door, and when it shuts behind you, the lobby is just gone. From there, the light warms up, and by the exit there's a faint pine scent from a giant air freshener, like the little tree in your car. Two things are optional and off to the side (a chill nook and mints); everything else just happens as you walk.
-
-| Sense       | Element                 | What it does                                                                                                                                                           |
-| ----------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✋ Touch    | Heavy door              | Heavy and damped, so it gives a little resistance when you push. It closes slowly behind you with a soft _thunk_.                                                      |
-| 🔊 Sound    | Quiet                   | Acoustic panels keep the PA calls and chatter out. Once the door closes, it's quiet.                                                                                   |
-| ✋ Touch    | Chill nook _(optional)_ | A wider alcove with deep, padded seats upholstered like car seats, tucked out of the walking path. Dimmer and quieter than the hallway, with the seats facing away from it, so you're not on display if you want a few minutes. |
-| 👃 Scent    | Giant air freshener     | An oversized pine air freshener hanging by the door: a giant version of the little tree on every rearview mirror. Kept faint, so it isn't one more thing to deal with. |
-| 👅 Taste    | Mints _(optional)_      | A mint tin in a cupholder niche by the door. Taste is the one sense that needs someone to stop, so it's opt-in.                                                        |
-| 💡 Lighting | Warm, dim light         | Indirect and warm instead of fluorescent glare, brightening toward the exit.                                                                                           |
-| 💡 Lighting | Skylight                | Daylight by the door so your eyes adjust before you drive.                                                                                                             |
-
-The lighting supports without guiding: it's a single hallway, so there's nowhere else to go.
+The Off-Ramp is one straight hallway along the building's right wall, running from the counter to the parking lot. A giant padded door with a car door handle seals it off from the lobby, and acoustic panels line the walls, so it's quiet inside and private enough to rage/vent. The light is warm and dim the whole way, with a skylight by the exit, and since it's a single hallway, the light never has to guide anyone anywhere. A giant pine air freshener hangs by the exit too, kept faint so it doesn't overwhelm people. Two things are optional and off to the side (a chill nook and mints); everything else just happens as you walk past it.
 
 ### 🛠️Implementation: Sensory Prototype
 
-_To do: pick one element to build and test._
+_To do: build a giant pine-scented air freshener and test how much scent still reads as faint when you walk past it._
 
 ![Sensory prototype](img/sensory-prototype.jpg)
 _Caption for the prototype._
@@ -108,15 +96,9 @@ _Caption for the prototype._
 ### 🎬Role: Storyboard
 
 ![Storyboard of the space in use](img/storyboard.jpg)
-_To do: storyboard of one person leaving after two hours in the lobby and a missing document._
+_The storyboard of an example person's trip to the DMV and using the Off Ramp._
 
-| Time  | What happens                                                                                                                    | Senses                 |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 0:00  | Sent home from the counter for a missing document, after two hours of PA calls, chatter, and glare. Frustrated and overwhelmed. | (lobby noise, glare)   |
-| 0:05  | Pushes through the heavy door. It _thunks_ shut behind them and the lobby noise cuts off.                                       | Touch, sound           |
-| 0:15  | Quiet hallway, warm light instead of fluorescents. Walks past the chill nook without stopping.                                  | Sound, lighting        |
-| 0:45  | Daylight from the skylight, a hint of pine by the exit. Grabs a mint (or doesn't).                                              | Lighting, scent, taste |
-| ~1:00 | Gets in the car and buckles up, still annoyed, but able to think straight before driving.                                       |                        |
+My storyboard for this follows a hypothetical guy at the DMV. He's been sitting in the lobby forever, listening to other people's tickets be called, anxiously waiting. However, when he finally gets to the counter, he's told he's missing a form and can't finish his registration there. Great, now he has to come back and do it all over next week. Normally that means walking back through the lobby, past everyone still waiting who saw his mistake. Instead, he grabs the car door handle on the exit by the counter, and the door shuts behind him with a _WHAM_. The PA calls and chatter are gone, so he lets it out: some yelling, some cursing, and nobody in the lobby hears any of it. Once that's out of his system, the hallway starts working on him. It's quiet, the light is warm, and he drops into one of the padded seats in the chill nook for a few minutes. On the way out he passes the giant pine tree, grabs a mint, and walks out into the daylight. He still has to come back, but he isn't taking it out on the drive home.
 
 ### 💭Reflection
 
