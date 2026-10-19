@@ -19,6 +19,8 @@ redirect_from:
 
 **Part 2:** _Design a public micro-environment that helps overstimulated people decompress in under 5 minutes, using sound, touch, scent, and/or taste (no screens or visual instructions; lighting can support but not guide). Deliver an annotated diagram (look & feel), a sensory prototype of one element (implementation), and a storyboard (role)._
 
+**Part 3:** _Read Chapter 4 of Don Norman's_ The Design of Everyday Things _("Knowing What to Do: Constraints, Discoverability, and Feedback"), then reflect on where the Part 2 concept considered (or should consider more deeply) its constraints and signifiers._
+
 ---
 
 ## 👅Part 1: O.Noir in Toronto
@@ -122,6 +124,28 @@ _The storyboard of an example person's trip to the DMV and using the Off-Ramp._
 
 My storyboard for this follows a hypothetical guy at the DMV. He's been sitting in the lobby forever, listening to other people's tickets be called, anxiously waiting. However, when he finally gets to the counter, he's told he's missing a form and can't finish his registration there. Great, now he has to come back and do it all over next week. Normally that means walking back through the lobby, past everyone still waiting who saw his mistake. Instead, he grabs the car door handle on the exit by the counter, and the door shuts behind him with a _WHAM_. The PA calls and chatter are gone, so he lets it out: some yelling, some cursing, and nobody in the lobby hears any of it. Once that's out of his system, the hallway starts working on him. It's quiet, the light is warm, and he drops into one of the padded seats in the chill nook for a few minutes. On the way out he passes the giant pine tree, grabs a mint, and walks out into the daylight. He still has to come back, but he isn't taking it out on the drive home.
 
+### 🗣️Class Feedback
+
+I think this project reflected LOTS of personal experience bias, and others brought up some good alternative viewpoints:
+
+- **There's an assumption that someone is a solo person driving their car**: This is the only way I've ever gone to a DMV, but not everyone does this. People often carpool, or take public transit, or ride a bike, to get to the DMV. For example, if my car's registration wasn't complete, I _couldn't_ even drive to the DMV (legally, anyway). This experience needs to reflect the perspectives of people who got to the DMV in other ways. Additionally, someone who doesn't own a car or drive wouldn't have the "car door" experience or nostalgia. However, to that end, it does give people without a car a private frustration space they wouldn't have.
+  - The flipside to that: for people who do have that "car door" experience, is this redundant? I make the point that it's meant to also help alleviate road rage, but also what's to stop someone from just sitting in their car 5 minutes?
+- **A single one-way exit misses a lot of considerations**: Making it a single-door exit can be arguably even more embarrassing. People forget things, and if you forgot your water bottle, a form, etc. in the lobby it's a whole awkward trek back inside to grab it, maybe even more awkward than just going back thru the lobby.
+- **This is Lobby 2.0**: Fair point; this becomes basically another lobby, with a lot of the same amenities. Relating to the previous point, if you drove someone else to the DMV, where are you supposed to be? Are you supposed to follow them through the door?
+- **The worst part of the DMV is the waiting**: I agree with this for sure; part of what makes the frustration of the DMV is, "you forgot Form 1450-X? you have to wait in the lobby for 2 more hours". The DMV should do a better job of either entertaining people or having less waiting, but I think "waiting" isn't exactly "overstimulating" (almost the opposite). Thus, I think alleviating the wait would be good, but a bigger problem than this assignment requires.
+- **A loud car door slam could annoy the lobby**: For sure. Probably worth thinking about how to get the "car door" effect without it being annoying to people in the lobby.
+
+### 🤔Responding to the Feedback
+
+Without directly re-doing all the items, I think the next iteration of this space would have the following:
+
+- **Make the space optional**: Make it ONLY if someone wants to exit thru it; don't FORCE someone to exit through it. If someone wants to exit the normal door and get to your car, then let them.
+  - This could theoretically just be something you could go to in the lobby directly, rather than getting force-funneled out of the DMV. However, this still makes it Lobby 2.0 (arguably more so) and adds consideration of what happens if your number is called while in it, but would address the feedback.
+- **Add multiple exits and make the space a loop**: Basically, add more one-way doors: one to the parking lot, one more direct to a bike rack/bus stop/etc., and one back to the lobby so someone can return there after spending a bit of time there. This also plays into the optionality of the point before.
+- **Move the slam inside**: Put a normal, quiet door between the lobby and a small vestibule, then put the car door on the far side of that. The _WHAM_ happens inside the soundproofed hallway, so you still get the satisfying slam, but nobody in the lobby hears it.
+
 ### 💭Reflection
 
 _Will fill out in a few weeks!_
+
+## 🚪Part 3: Constraints & Signifiers from _The Design of Everyday Things, Chapter 4_
