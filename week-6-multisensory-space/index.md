@@ -56,7 +56,7 @@ O.Noir is built around flavor, but as the Flavor chapter argues, flavor comes fr
 
 ## 🫧Part 2: Decompression Space - DMV "Off-Ramp"
 
-When thinking of public spaces, I pondered where I've felt the most overstimulated in public. One thing immediately jumped to mind: the DMV. I think you'd be hard-pressed to find ANYONE who enjoys the experience at the DMV. It seems specially-designed to piss people off: it's slow, bureaucratically-bloated, and aesthetically unpleasant.
+When thinking of public spaces, I pondered where I've felt the most overstimulated in public. One thing immediately jumped to mind: the DMV. I think you'd be hard-pressed to find ANYONE who enjoys the experience at the DMV. It seems specially designed to piss people off: it's slow, bureaucratically bloated, and aesthetically unpleasant.
 
 The DMV has a few different spots of stress:
 
@@ -66,7 +66,7 @@ The DMV has a few different spots of stress:
 
 At the DMV, being overstimulated and being frustrated are basically the same feeling: an hour of noise and glare wears you down until one more problem at the counter is enough to tip you over.
 
-Leaving is where there's room to do something about it. It's short (under five minutes), it's a transition from the counter to the car (or bus, or bike, or whatever), and it's the one part of the visit that everyone goes through. Since most people walk out of the DMV and get right behind the wheel, helping someone come down from all that on the way out could actually make the roads a little safer.
+Leaving is where there's room to do something about it. It's short (under five minutes), it's a transition from the counter to the car (or bus, or bike, or whatever), and it's the one part of the visit that everyone goes through. Since most people walk out of the DMV and get right behind the wheel, helping someone come down from all that on the way out could make the roads a little safer.
 
 ### 🧠Ideation
 
@@ -128,7 +128,7 @@ My storyboard for this follows a hypothetical guy at the DMV. He's been sitting 
 
 I think this project reflected LOTS of personal experience bias, and others brought up some good alternative viewpoints:
 
-- **There's an assumption that someone is a solo person driving their car**: This is the only way I've ever gone to a DMV, but not everyone does this. People often carpool, or take public transit, or ride a bike, to get to the DMV. For example, if my car's registration wasn't complete, I _couldn't_ even drive to the DMV (legally, anyway). This experience needs to reflect the perspectives of people who got to the DMV in other ways. Additionally, someone who doesn't own a car or drive wouldn't have the "car door" experience or nostalgia. However, to that end, it does give people without a car a private frustration space they wouldn't have.
+- **There's an assumption that someone is a solo person driving their car**: This is the only way I've ever gone to a DMV, but not everyone does this. People often carpool, or take public transit, or ride a bike, to get to the DMV. For example, if my car's registration wasn't complete, I _couldn't_ even drive to the DMV (legally, anyway). This experience needs to reflect the perspectives of people who got to the DMV in other ways. Also, someone who doesn't own a car or drive wouldn't have the "car door" experience or nostalgia. However, to that end, it does give people without a car a private frustration space they wouldn't have.
   - The flipside to that: for people who do have that "car door" experience, is this redundant? I make the point that it's meant to also help alleviate road rage, but also what's to stop someone from just sitting in their car 5 minutes?
 - **A single one-way exit misses a lot of considerations**: Making it a single-door exit can be arguably even more embarrassing. People forget things, and if you forgot your water bottle, a form, etc. in the lobby it's a whole awkward trek back inside to grab it, maybe even more awkward than just going back thru the lobby.
 - **This is Lobby 2.0**: Fair point; this becomes basically another lobby, with a lot of the same amenities. Relating to the previous point, if you drove someone else to the DMV, where are you supposed to be? Are you supposed to follow them through the door?
@@ -144,8 +144,25 @@ Without directly re-doing all the items, I think the next iteration of this spac
 - **Add multiple exits and make the space a loop**: Basically, add more one-way doors: one to the parking lot, one more direct to a bike rack/bus stop/etc., and one back to the lobby so someone can return there after spending a bit of time there. This also plays into the optionality of the point before.
 - **Move the slam inside**: Put a normal, quiet door between the lobby and a small vestibule, then put the car door on the far side of that. The _WHAM_ happens inside the soundproofed hallway, so you still get the satisfying slam, but nobody in the lobby hears it.
 
-### 💭Reflection
+## 🚪Part 3: Relating to _The Design of Everyday Things, Chapter 4_
+
+In this chapter, Don Norman mainly talks about constraints, signifiers, and feedback. Relating each of these to the original Off-Ramp, pre-feedback:
+
+- **Constraints**: I think the constraints are the strongest part of the design. Looking at the specific types of constraints:
+  - _Physical_: The one-way door is a physical constraint to let people know there's only one way through the door; someone can't go through the wrong side back into the lobby. The hallway itself is one too: it's a single straight line with nowhere else to go.
+  - _Cultural_: The car door handle relies on a convention nearly everyone already knows, so no one has to be told how to open it. But someone from a culture where cars aren't common, or someone who doesn't drive a car, may not have this knowledge (which is similar to one point of feedback). The mints work the same way, since a bowl of mints by a door (like at a restaurant host stand, doctor's office lobby, etc.) is commonly understood as "take one", even without a sign. Conventions also cut the other way: it's a convention to keep your voice down in a government building, and without a good signifier letting someone know it's okay to vent here, that convention may undercut the whole point of the Off-Ramp.
+  - _Semantic_: The car stuff gives the hallway its meaning. A car door handle and a pine air freshener both "belong" to a car, so together they hint that you should treat the space like your car after a bad day: somewhere private to blow off steam, not somewhere to sit and chat with strangers. Daylight at the far end also reads as "outside," so the only meaningful place for the hallway to end is the exit.
+  - _Logical_: The optional things (the nook and mints) sit off to the side, out of the walking path, so the layout itself says you can skip them.
+- **Signifiers**: This is definitely the weakest part. Part of the prompt is "no signs", so we can't explicitly say what the room is for, so because of that, the room doesn't do a great job of conveying purpose; that might be evidence it could be considered a "Lobby 2.0", since someone would see chairs, mints, etc. and assume it's another waiting area. The best non-visual signifier available is probably sound. Norman talks about sounds as signifiers, and the sudden quiet when the door seals could be the thing that says "you're ok to raise your voice". Sound panels on the wall can be a visual signifier of this too, albeit a less obvious one.
+- **Feedback**: I think the "car door slam" does a lot of heavy lifting for feedback, since like a car door, hearing that noise confirms you're sealed off. Also, the skylight and pine smell near the exit act as feedback that you're almost out. What's missing is feedback _before_ committing: nothing tells you the door is one-way until it's already shut behind you, which is exactly why the forgotten water bottle scenario stings.
+
+It's interesting pondering how the "lesser" senses (smell and taste) play into constraints, signifiers, and feedback. Norman's examples are almost all sight, touch, and sound, and even then sound is treated as a backup. Touch maps onto constraints pretty naturally, since physical constraints are things you bump into or grab, and sound fits feedback since it's immediate. Smell and taste are much worse at both. Smell is slow, it lingers, and you stop noticing it after a bit, so it can't confirm a specific action the way a slam can; it works better as an ambient signifier for a _place_, which is why the pine tree goes at the exit, where the change in smell tells you you've reached somewhere new. Taste is even more limited: you can't taste something until you've already decided to put it in your mouth, so it can't signify or constrain anything ahead of time. That said, smell often acts as a signifier _for_ taste ("don't eat this banana, it smells rotten"), which fits Lupton's "flavor is smell" from Part 1. In the Off-Ramp, taste only shows up in the mints, which end up as a kind of closing feedback: a small "you're done" before walking outside.
+
+Relating this back to my feedback and possible iterations:
+
+- The looped version from my feedback response makes signifiers harder: with three doors and no signs, each door would need to signal where it goes on its own. Since visual indicators are off the table, each door could lean on a different sense: the parking lot door keeps the car door handle and pine smell, the bus/bike door lets in a little street noise, and the door back to the lobby gets a plain, normal handle.
+- Moving the "car door slam" past a quiet vestibule, rather than making it the entrance, keeps the same feedback without the noise reaching the lobby. It's still a real door closing behind you, just the second one instead of the first. If it ever turned into a standalone "rage machine" instead of an actual door, though, it would stop being feedback that you're sealed off and become something you slam just for the release.
+
+## 💭Reflection
 
 _Will fill out in a few weeks!_
-
-## 🚪Part 3: Constraints & Signifiers from _The Design of Everyday Things, Chapter 4_
