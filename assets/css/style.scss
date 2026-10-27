@@ -642,6 +642,41 @@ body {
 }
 
 /* ==========================================================================
+   Week 08: found examples, side by side in a table
+   ========================================================================== */
+
+.main-content table.examples {
+  table-layout: fixed;
+}
+.main-content table.examples td {
+  vertical-align: top;
+}
+.main-content table.examples tbody td:first-child {
+  font-family: inherit;
+  font-weight: inherit;
+  color: inherit;
+  white-space: normal;
+}
+.main-content table.examples tbody tr:hover {
+  background: transparent;
+}
+.main-content table.examples img,
+.main-content table.examples video {
+  display: block;
+  width: 100%;
+  height: clamp(140px, 30vw, 240px);
+  margin: 0;
+  padding: 4px;
+  object-fit: cover;
+  background: var(--card);
+  border: 1px solid var(--rule);
+  box-shadow: 4px 4px 0 var(--shadow);
+}
+.main-content table.examples video {
+  object-fit: contain;
+}
+
+/* ==========================================================================
    Motion preferences
    ========================================================================== */
 

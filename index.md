@@ -8,14 +8,15 @@ week's write-up, sketches, and prototypes.
 
 ## Weeks
 
-| #   | Week                                                       | Notes                                                                        |
-| --- | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 01  | [Magical Interface](week-1-magical-interface/)             | A pen + sand interface, from partner interview to high-fidelity prototype.   |
-| 02  | [Future of Visual Design](week-2-future-of-visual-design/) | An identity for a surviving "security" company under a post-brand regime.    |
-| 03  | [Teach Me, Teach You](week-3-teach-me-teach-you/)          | Testing a partner's visual instructions, then teaching myself a new tool.    |
-| 04  | [Trust the Process](week-4-trust-the-process/)             | Redrawing a partner's map of how I learn, then mining it for friction.       |
-| 05  | [Cognitive Reloading](week-5-cognitive-reloading/)         | A prototype app that gradually hands cognitive work back to the user.        |
-| 06  | [Multisensory Space](week-6-multisensory-space/)           | Reflecting on a non-visual experience, then designing a space to decompress. |
+| #   | Week                                                                                 | Notes                                                                        |
+| --- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 01  | [Magical Interface](week-1-magical-interface/)                                       | A pen + sand interface, from partner interview to high-fidelity prototype.   |
+| 02  | [Future of Visual Design](week-2-future-of-visual-design/)                           | An identity for a surviving "security" company under a post-brand regime.    |
+| 03  | [Teach Me, Teach You](week-3-teach-me-teach-you/)                                    | Testing a partner's visual instructions, then teaching myself a new tool.    |
+| 04  | [Trust the Process](week-4-trust-the-process/)                                       | Redrawing a partner's map of how I learn, then mining it for friction.       |
+| 05  | [Cognitive Reloading](week-5-cognitive-reloading/)                                   | A prototype app that gradually hands cognitive work back to the user.        |
+| 06  | [Multisensory Space](week-6-multisensory-space/)                                     | Reflecting on a non-visual experience, then designing a space to decompress. |
+| 08  | [🏗️Imagined Affordances and Signifiers](week-8-imagined-affordances-and-signifiers/) | Spotting failed affordances and signifiers in the wild, then redesigning.    |
 
 (🏗️ = WIP)
 
