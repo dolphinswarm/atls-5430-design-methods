@@ -100,6 +100,14 @@ All that said, I still don't know how a car could park on this street with the e
 ![Sketches for the stop engine sign](img/sketch-sign.jpg)
 _Sketches: five concepts for removing the need for the sign._
 
+My ideas were:
+
+1. **Giant fume hood:** a hood above the parking spot that sucks exhaust up and away from the building.
+2. **Coughing smoke detector:** a detector that plays coughing and wheezing noises (or just a regular alarm) when it picks up exhaust.
+3. **Emissions wall:** turn the wall the sign is on into LED panels hooked up to a thermal or optical gas camera, so drivers can see their own exhaust.
+4. **Building hitman:** a dedicated hitman to blow up any violating cars.
+5. **Giant fans:** fans that blow any fumes or fragrances away from the area.
+
 I did go a bit nonsensical with some of the ideas, but ended up selecting #1, the giant fume hood. A hood over the spot where cars stop pulls exhaust up and away before it reaches the building. If the fumes never get to the building, nobody needs to be told to turn off their engine, so the sign isn't needed anymore.
 
 ![Blender mockup of an exhaust hood over the curb beside the stop engine sign](img/sign-render.png)
@@ -122,6 +130,13 @@ However, the assignment isn't asking for the reason the clearance bar was lowere
 
 ![Sketches for the garage clearance bar](img/sketch-garage.jpg)
 _Sketches: four scenarios that could require the clearance bar._
+
+My ideas were:
+
+1. **Stuck on the ramp:** a tall vehicle makes it in but gets stuck heading down to the lower-clearance levels.
+2. **Infrastructure damage:** a tall vehicle hits a sprinkler, light, or other system hanging from the lower-clearance ceilings.
+3. **Stuck at the entrance:** a vehicle like a U-Haul gets stuck on the entrance itself.
+4. **Spilled cargo:** a vehicle with items stacked on its roof or bed hits the ceiling and spills everything.
 
 I ended up doing a mix of #3 and #4 for this one, where someone's truck clears the entrance, but their cargo doesn't, and topples out onto the driveway.
 
