@@ -55,6 +55,89 @@
   })();
 </script>
 
+<script>
+  // Lightbox: click (or Enter on) any content image to see it full-screen.
+  // The caption is the italic line right after the image if there is one,
+  // otherwise the alt text. Arrow keys / buttons step through every image on
+  // the page; Esc, the close button, or a click outside the image closes it.
+  (function () {
+    function build() {
+      var images = Array.from(document.querySelectorAll(".main-content img"))
+        .filter(function (img) { return !img.closest("a"); });
+      if (!images.length) return;
+
+      var dialog = document.createElement("dialog");
+      dialog.className = "lightbox";
+      dialog.setAttribute("aria-label", "Image preview");
+      dialog.innerHTML =
+        '<button type="button" class="lightbox-close" aria-label="Close">×</button>' +
+        '<button type="button" class="lightbox-prev" aria-label="Previous image">‹</button>' +
+        '<figure><img alt=""><figcaption></figcaption></figure>' +
+        '<button type="button" class="lightbox-next" aria-label="Next image">›</button>';
+      document.body.appendChild(dialog);
+
+      var full = dialog.querySelector("img");
+      var caption = dialog.querySelector("figcaption");
+      var current = 0;
+
+      function captionFor(img) {
+        var next = img.nextElementSibling;
+        if (next && next.tagName === "EM") return next.cloneNode(true).childNodes;
+        return img.alt ? [document.createTextNode(img.alt)] : [];
+      }
+
+      function show(i) {
+        current = (i + images.length) % images.length;
+        var img = images[current];
+        full.src = img.currentSrc || img.src;
+        full.alt = img.alt;
+        caption.replaceChildren.apply(caption, Array.from(captionFor(img)));
+        caption.hidden = !caption.childNodes.length;
+      }
+
+      function open(i) {
+        show(i);
+        if (!dialog.open) dialog.showModal();
+      }
+
+      images.forEach(function (img, i) {
+        img.classList.add("zoomable");
+        img.tabIndex = 0;
+        img.setAttribute("role", "button");
+        img.addEventListener("click", function () { open(i); });
+        img.addEventListener("keydown", function (e) {
+          if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(i); }
+        });
+      });
+
+      var single = images.length === 1;
+      dialog.querySelector(".lightbox-prev").hidden = single;
+      dialog.querySelector(".lightbox-next").hidden = single;
+      dialog.querySelector(".lightbox-prev").addEventListener("click", function () { show(current - 1); });
+      dialog.querySelector(".lightbox-next").addEventListener("click", function () { show(current + 1); });
+      dialog.querySelector(".lightbox-close").addEventListener("click", function () { dialog.close(); });
+
+      dialog.addEventListener("keydown", function (e) {
+        if (single) return;
+        if (e.key === "ArrowLeft") show(current - 1);
+        if (e.key === "ArrowRight") show(current + 1);
+      });
+
+      // Clicks on the dark surround (the dialog or figure itself) close it;
+      // clicks on the image, caption links, or buttons don't.
+      dialog.addEventListener("click", function (e) {
+        if (e.target === dialog || e.target.tagName === "FIGURE") dialog.close();
+      });
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", build);
+    } else {
+      build();
+    }
+  })();
+</script>
+
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 <script>
   // Kramdown turns a ```mermaid fence into <pre><code class="language-mermaid">
