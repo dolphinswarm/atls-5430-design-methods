@@ -103,13 +103,13 @@ _Fen's Cafe, set up as the kitchen. Stations follow the order card, from the rol
 
 The order card also tags each topping as vegan, vegetarian, gluten-free, containing nuts, or shellfish, so guests with dietary needs can check before they order, or mention it on their "Special Requests" on the order card. On the line, peanut butter and the shellfish each get their own utensils, so they don't cross-contaminate other toppings.
 
-## ⭐Specialty Dog: _The Frank Sinatra_
+## ⭐Specialty Dog: _The Old Frankioned_
 
 > ⚠️**DISCLAIMER**: Obviously, the Whaaat!? Festival is an all-ages, family-friendly event, and does/would not serve alcohol. This is a playful concept for IF the festival were to serve cocktails for all guests 21 and over.
 
 The ask here is for a hot dog _bar_, so naturally, a bar should have alcoholic beverages for us alcoholics. Thus, we have a specialty hot dog cocktail, perfect to pair with whatever glizzy you end up ordering.
 
-Meet _The Frank Sinatra_: a hot dog whiskey sour. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle to really round out the ballpark flavors.
+Meet _The Old Frankioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. Additionally, to cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
 
 ### 🍸The Recipe
 
@@ -119,22 +119,20 @@ Meet _The Frank Sinatra_: a hot dog whiskey sour. It's built on whiskey that's b
 
 - 1½ oz hot dog-infused whiskey (see below)
 - ½ oz [Empirical x Doritos Nacho Cheese](https://woodencork.com/collections/liqueur-more/products/doritos-x-empirical) liquor
-- ½ oz pickle shot liquor
-- ¾ oz fresh lemon juice
-- ¾ oz simple syrup
-- 1 egg white
+- 1 bar spoon (about ¼ oz) pickle shot liquor
+- 1 bar spoon (about ¼ oz) maple syrup
+- 2 dashes Angostura bitters
 
 **Instructions:**
 
-1. Add everything to a shaker and shake without ice (a "dry shake") to build the foam.
-2. Add ice and shake again until cold.
-3. Strain into a chilled coupe.
-4. Drag a few drops of bitters across the foam in a zigzag, like a ketchup squiggle.
-5. Garnish with a cocktail glizzy on a pick. For extra Doritos flavor, rim half the glass with crushed Doritos.
+1. Add everything to a mixing glass with ice.
+2. Stir for about 30 seconds, until cold.
+3. Strain over one large ice cube in a rocks glass.
+4. Garnish with a cocktail glizzy and a mini pickle on a toothpick.
 
-**Why it (hopefully) works:** Whiskey and pickle are already a known pairing (the pickleback), and the sour brine cuts through the meatiness the same way sauerkraut does on a dog. The Doritos spirit is unsweetened and fairly subtle, adding earthy corn and pepper notes rather than a full cheese bomb. Lemon, simple syrup, and egg white then smooth everything out into a proper cocktail.
+**Why it (hopefully) works:** Meat-infused whiskey in an Old Fashioned already has a famous precedent: the [Benton's Old Fashioned](https://punchdrink.com/recipes/bentons-old-fashioned/) at PDT in NYC, made with bacon fat-washed bourbon and maple syrup. The Doritos liquor is unsweetened and the same strength as whiskey, so it works as a split base, adding earthy corn and pepper notes rather than a full cheese bomb. The pickle is kept to a bar spoon, just enough brine to brighten the drink without taking over.
 
-At the event, The Frank Sinatra is mixed at The Bar station in Fen's Cafe and delivered on the same tray as the guest's hot dog. Servers check ID when they collect the order card, so anyone under 21 is turned away before it's ever made.
+If the infusion comes out rough, the backup plan is a sour (with lemon, simple syrup, and egg white), since citrus and foam are a lot more forgiving.
 
 ### 🧪Infusion: Hot Dog Whiskey
 
@@ -181,7 +179,7 @@ Once it's done infusing, the plan is to:
 
 ### 🪧Build Sign
 
-TODO: A recipe card for The Bar station in Fen's Cafe, showing servers how to build The Frank Sinatra. A smaller version doubles as a take-home souvenir card for guests.
+TODO: A recipe card for The Bar station in Fen's Cafe, showing servers how to build The Old Frankioned. A smaller version doubles as a take-home souvenir card for guests.
 
 ### 👅Tasting Notes
 
