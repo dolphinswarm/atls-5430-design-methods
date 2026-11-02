@@ -42,9 +42,9 @@ The lobby is set up cocktail-style, with 13 small standing tables in a staggered
 ### 🚶Guest Flow
 
 1. **Entrances:** Guests can arrive from any side: the building's main entrance at the lower right, the doors from the surrounding auditoriums and rooms, or the hallway at the top. Because cards wait on every table, there's no single starting point to crowd, so guests can go to whatever table they want.
-2. **Order at any table:** Every table has a brass card holder with order cards gold-ink feather pens (ballpoint pens in a quill shape). Guests fill out their desired hot dog configuration, and a server will come by to collect the order card, check their ID if they ordered a cocktail, and verify their "status" (tier); once this is done, the server provides a numbered placard, fills in the order number, and takes the card to the "kitchen" in Fen's Cafe.
-3. **Fen's Cafe (staff only):** Fen's Cafe is where the the rollers and toppings are. Servers come here to build the hot dogs, based on order cards. If a guest ordered a cocktail, it's mixed here as well.
-4. **Delivery:** Finished dogs leave Fen's on a tray with their card, and servers then deliver the hot dog to the guest, based on the number on the placard. The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
+2. **Order at any table:** Every table has a brass card holder with order cards and gold-ink feather pens (ballpoint pens in a quill shape). Guests fill out their desired hot dog configuration, and a server will come by to collect the order card, check their ID if they ordered a cocktail, and verify their "status" (tier); once this is done, the server provides a numbered placard, fills in the order number, and takes the card to the "kitchen" in Fen's Cafe. For visually-impaired guests, servers can read the card aloud and take the order by voice instead.
+3. **Fen's Cafe (staff only):** Fen's Cafe is where the rollers and toppings are. Servers come here to build the hot dogs, based on order cards. If a guest ordered a cocktail, it's mixed here as well.
+4. **Delivery:** Finished dogs leave Fen's on a covered tray (cloche) with their card, and servers then deliver the hot dog to the guest, based on the number on the placard, lifting the cover at the table (see Smell below). The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
 5. **Trash:** Since the servers will already be busy enough as-is, trash is self-serve. There's three spots spread around the room so no single spot gets crowded.
 
 This setup helps to avoid the bottlenecks that would occur if guests had to wait in line to order, and it allows them to enjoy the festival while their hot dog is being built. It also allows for a more elegant experience, as guests can mingle and socialize instead of standing in line.
@@ -135,9 +135,39 @@ For example, here could be Frank's order, and the clues / snippets of Frank's li
 | Fen's Cafe's chalkboard menu, facing the lobby                    | Location | _"As a teen, Frank spent a summer at a mountain monastery outside Seoul, and he still craves what the monks kept in clay jars."_        | Kimchi (Friar)                           |
 | The cereal breakfast's sign and napkins                           | Event    | _"Frank is still a kid at heart, and never outgrew Saturday cartoons with a bowl in his lap."_                                          | Fruity cereal crunch (Jester)            |
 
-## 👃Multisensory Considerations
+## 🎭Multisensory Considerations
 
-TODO
+### 👃Smell
+
+So, an elephant in the room: with the actual "bar" being inside Fen's Cafe and only accessible to servers, the alluring smell of hot dogs and toppings won't be detectable from the lobby; if it is, not nearly as strong. After all, there's a reason gas stations have hot dog rollers out - to get you hungry by seeing and smelling it. Thus, we have a few options to make the smell more present in the lobby:
+
+1. **Scented candles:** Place some candles on each of the tables, with scents that evoke hot dogs and toppings. This would help serve as a substitute for not directly having hot dog rollers in the lobby.
+2. **Fans:** Install fans in the kitchen that blow the smell of hot dogs and toppings into the lobby, a la what some bakeries do (looking at you, Boudin's Sourdough on Fisherman's Wharf in SF) to entice customers.
+3. **Covered serving trays:** Have servers carry the hot dogs on covered trays, and when they arrive at the table, they can lift the cover to reveal the hot dog and its aroma. This would help to create a sense of anticipation and excitement for the guests as well.
+
+### 👅Taste
+
+I think taste is pretty self-explanatory here, since it is a hot dog bar with a wide variety of toppings. The taste of the hot dogs and toppings will be the main focus of the experience, ranging from classic to straight-up unhinged. Each tier has its own flavor profile, so guests can mix and match for some contrast:
+
+- **Peasant:** Tangy, sweet, and salty ballpark classics
+- **Sailor:** Briny and buttery seafood
+- **Friar:** Sour and fermented
+- **Blacksmith:** Smoky, charred, and sweet-savory
+- **Merchant:** Bright and herby
+- **Knight:** Heat of varying intensity
+- **Jester:** Sweet, crunchy, and lowkey fucked up
+- **Noble:** Rich, buttery, and savory
+
+### 🤌Touch
+
+There isn't a ton of touch involved with a black-tie served hot dog bar, since users aren't building their own hot dogs. However, the hot dogs themselves do offer a tactile experience. Depending on the bun, choice of toppings, etc., the hot dog can be soft, crunchy, chewy, or even cold (if you get ice cream on it).
+
+### 🎻Sound
+
+Some ideas for improving the audio experience include:
+
+1. **String quartet:** A string quartet plays in the lobby during lunch, adding to the "classy feel". Since it is for _Whaaat!?_, it would be fun for them to do hot dog related songs (like "Take Me Out to the Ball Game") or video game music in a classical style.
+2. **The herald:** When a Hero's dog arrives, their personal herald announces it to the room. Status becomes something the whole lobby can hear, which also doubles as an ad for the Hero pass.
 
 ## 💭Reflection
 
