@@ -84,6 +84,12 @@ My ideas were:
 
 I ended up choosing #3, which are the button controls. Instead of sliding the flap by hand, you press an up or down button, and a motor raises the flap to a set height and stops it there. Since your hand never touches the flap, there's no way to push it off the rails, and removes any manual input from the flap. Admittedly, this isn't the most minimal intervention (that would be the internal limiters), but limiters can still be forced or broken, while buttons take the hand out of the equation entirely.
 
+![Storyboard of the current interaction, where the flap slides off its rails](img/storyboard-flap-current.png)
+_Storyboard A: the current interaction, where pushing the flap up slides it right off the rails._
+
+![Storyboard of the improved interaction, with up and down buttons controlling the flap](img/storyboard-flap-improved.png)
+_Storyboard B: the improved interaction, where up and down buttons raise and lower the flap to a set height._
+
 ### 🏷️Augmented Signifier: The "Stop Engine" Sign
 
 This one was just so funny to me, I couldn't NOT do it. "FUMES" in big blocky letters (almost sounds sarcastic), and also ONLY here; I can't recall ever seeing a sign like this ANYWHERE. Why only here? How would a car or truck even park in this place, since it's above a sidewalk on a small street where you can't really idle or park?
