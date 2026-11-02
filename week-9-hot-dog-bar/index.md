@@ -37,19 +37,19 @@ Cocktails are part of the experience too. Alongside their dog, guests 21 and ove
 ![ATLAS lobby floor plan](img/floor-plan.png)
 _The ATLAS lobby floor plan for the hot dog bar._
 
-The lobby is set up cocktail-style, with 13 small standing tables in a staggered layout. This encourages the guests to mingle and socialize, making the most of their time at _Whaaat!?_ instead of having to make their own hot dog and sit in a dedicated seat. Since guests won't be sitting down, the tables are spaced to allow servers to move freely and avoid bottlenecks. The two hot dog rollers are located in a "kitchen" area, where servers can build the hot dogs and hand them out to guests. Each table has a brass card holder, with several order cards, and a few feather pens, where guests can fill out a card with their desired toppings. A server will then pick up the card and bring it to the "kitchen", where the hot dog is built and delivered to the guest, based on the number on the card.
+The lobby is set up cocktail-style, with 13 small standing tables in a staggered layout. This encourages the guests to mingle and socialize, making the most of their time at _Whaaat!?_ instead of having to make their own hot dog and sit in a dedicated seat. Since guests won't be sitting down, the tables are spaced to allow servers to move freely and avoid bottlenecks. The two hot dog rollers are located in a "kitchen" area, where servers can build the hot dogs and hand them out to guests. Each table has a brass card holder, with several order cards, and a few feather pens, where guests can fill out a card with their desired toppings. A server will then pick up the card and bring it to the "kitchen", where the hot dog is built and delivered to the guest, based on the numbered placard at their table.
 
 ### 🚶Guest Flow
 
 1. **Entrances:** Guests can arrive from any side: the building's main entrance at the lower right, the doors from the surrounding auditoriums and rooms, or the hallway at the top. Because cards wait on every table, there's no single starting point to crowd, so guests can go to whatever table they want.
 2. **Order at any table:** Every table has a brass card holder with order cards and gold-ink feather pens (ballpoint pens in a quill shape). Guests fill out their desired hot dog configuration, and a server will come by to collect the order card, check their ID if they ordered a cocktail, and verify their "status" (tier); once this is done, the server provides a numbered placard, fills in the order number, and takes the card to the "kitchen" in Fen's Cafe. For visually-impaired guests, servers can read the card aloud and take the order by voice instead.
-3. **Fen's Cafe (staff only):** Fen's Cafe is where the rollers and toppings are. Servers come here to build the hot dogs, based on order cards. If a guest ordered a cocktail, it's mixed here as well.
+3. **Fen's Cafe (staff only):** Fen's Cafe is where the rollers and toppings are. Servers come here to build the hot dogs, based on order cards. The rollers are reloaded as dogs come off, so a fresh batch is always heating. If a guest ordered a cocktail, it's mixed here as well.
 4. **Delivery:** Finished dogs leave Fen's on a covered tray (cloche) with their card, and servers then deliver the hot dog to the guest, based on the number on the placard, lifting the cover at the table (see Smell below). The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
 5. **Trash:** Since the servers will already be busy enough as-is, trash is self-serve. There's three spots spread around the room so no single spot gets crowded.
 
 This setup helps to avoid the bottlenecks that would occur if guests had to wait in line to order, and it allows them to enjoy the festival while their hot dog is being built. It also allows for a more elegant experience, as guests can mingle and socialize instead of standing in line.
 
-This setup being very server-driven definitely presents its own challenges; there could literally be "too many cooks in the kitchen" building hot dogs, and have its own bottleneck. Also, the servers would have LOTS of constant responsibility, including:
+This setup being very server-driven definitely presents its own challenges; there could literally be "too many cooks in the kitchen" building hot dogs, and have its own bottleneck. Also, the servers (6-8 total) would have LOTS of constant responsibility, including:
 
 - Collecting order cards
 - Checking IDs for cocktails
@@ -103,13 +103,89 @@ _Fen's Cafe, set up as the kitchen. Stations follow the order card, from the rol
 
 The order card also tags each topping as vegan, vegetarian, gluten-free, containing nuts, or shellfish, so guests with dietary needs can check before they order, or mention it on their "Special Requests" on the order card. On the line, peanut butter and the shellfish each get their own utensils, so they don't cross-contaminate other toppings.
 
-## ⭐Specialty Dog: _Hot Dog Cocktail_
+## ⭐Specialty Dog: _The Frank Sinatra_
 
 > ⚠️**DISCLAIMER**: Obviously, the Whaaat!? Festival is an all-ages, family-friendly event, and does/would not serve alcohol. This is a playful concept for IF the festival were to serve cocktails for all guests 21 and over.
 
 The ask here is for a hot dog _bar_, so naturally, a bar should have alcoholic beverages for us alcoholics. Thus, we have a specialty hot dog cocktail, perfect to pair with whatever glizzy you end up ordering.
 
-TODO - DOCUMENTATION ABOUT THE HOT DOG COCKTAIL, INCLUDING INGREDIENTS, MIXING INSTRUCTIONS, AND HOW IT'S SERVED
+Meet _The Frank Sinatra_: a hot dog whiskey sour. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle to really round out the ballpark flavors.
+
+### 🍸The Recipe
+
+> 📝**NOTE:** This is the planned build, and it hasn't been taste-tested yet. Measurements may change once I try it (see Tasting Notes below).
+
+**Ingredients:**
+
+- 1½ oz hot dog-infused whiskey (see below)
+- ½ oz [Empirical x Doritos Nacho Cheese](https://woodencork.com/collections/liqueur-more/products/doritos-x-empirical) liquor
+- ½ oz pickle shot liquor
+- ¾ oz fresh lemon juice
+- ¾ oz simple syrup
+- 1 egg white
+
+**Instructions:**
+
+1. Add everything to a shaker and shake without ice (a "dry shake") to build the foam.
+2. Add ice and shake again until cold.
+3. Strain into a chilled coupe.
+4. Drag a few drops of bitters across the foam in a zigzag, like a ketchup squiggle.
+5. Garnish with a cocktail glizzy on a pick. For extra Doritos flavor, rim half the glass with crushed Doritos.
+
+**Why it (hopefully) works:** Whiskey and pickle are already a known pairing (the pickleback), and the sour brine cuts through the meatiness the same way sauerkraut does on a dog. The Doritos spirit is unsweetened and fairly subtle, adding earthy corn and pepper notes rather than a full cheese bomb. Lemon, simple syrup, and egg white then smooth everything out into a proper cocktail.
+
+At the event, The Frank Sinatra is mixed at The Bar station in Fen's Cafe and delivered on the same tray as the guest's hot dog. Servers check ID when they collect the order card, so anyone under 21 is turned away before it's ever made.
+
+### 🧪Infusion: Hot Dog Whiskey
+
+The base of the cocktail is a homemade hot dog-infused whiskey:
+
+![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg)
+_Crown Royal Blenders' Mash, loaded with hot dog._
+
+To make this, I first boiled the glizzies to cook them through, then seared them in a pan for some extra flavor. After slicing them into small coins, I fed them into a bottle of whiskey. I used Crown Royal Blenders' Mash since I had it on hand (thank you Jay), but any whiskey will do; infusions tend to do better with higher-proofs, so my personal recommendation is Wild Turkey 101. The bottle then steeped for 48 hours, allowing the hot dog flavor to dissolve into the whiskey.
+
+<details class="contraband" markdown="1">
+  <summary>View the infusion process</summary>
+  <div class="body" markdown="1">
+
+![Glizzies boiling in a saucepan](img/infusion-step-1-boil.jpg)
+_Step 1: Boiling the glizzies to cook them through._
+
+![Glizzies in a frying pan](img/infusion-step-2-sear.jpg)
+_Step 2: Searing the glizzies in a pan for some extra flavor._
+
+![Cooked glizzies on a cutting board](img/infusion-step-3-cooked.jpg)
+_Step 3: The cooked glizzies, ready for slicing._
+
+![Glizzies sliced into coins](img/infusion-step-4-slice.jpg)
+_Step 4: Slicing the glizzies into coins, small enough to fit through the bottle's neck, with more surface area for the whiskey to soak into._
+
+<video src="img/infusion-step-5-bottling.mp4" poster="img/infusion-step-5-bottling.jpg" controls muted playsinline preload="none"></video>
+_Step 5: Feeding the coins into the bottle, one by one._
+
+![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg)
+_Step 6: The bottle, fully loaded._
+
+![Hot dog pieces steeping in the whiskey](img/infusion-step-7-steeping.jpg)
+_Step 7: Steeping in the whiskey._
+
+  </div>
+</details>
+
+Once it's done infusing, the plan is to:
+
+1. Strain the whiskey through a coffee filter-lined funnel into a jar, since the hot dog pieces won't come back out of the bottle's narrow neck easily.
+2. Freeze the jar for a few hours, so any fat from the hot dogs solidifies on top (a technique called "fat-washing").
+3. Strain again to remove the fat, leaving a clear whiskey that still tastes like hot dog.
+
+### 🪧Build Sign
+
+TODO: A recipe card for The Bar station in Fen's Cafe, showing servers how to build The Frank Sinatra. A smaller version doubles as a take-home souvenir card for guests.
+
+### 👅Tasting Notes
+
+TODO: How it actually tastes, and any changes to the recipe.
 
 ## 🕵️Voucher / Challenge: Clue-Style Hot Dog Deduction
 
@@ -166,7 +242,7 @@ There isn't a ton of touch involved with a black-tie served hot dog bar, since u
 
 Some ideas for improving the audio experience include:
 
-1. **String quartet:** A string quartet plays in the lobby during lunch, adding to the "classy feel". Since it is for _Whaaat!?_, it would be fun for them to do hot dog related songs (like "Take Me Out to the Ball Game") or video game music in a classical style.
+1. **String quartet:** A string quartet plays in the lobby during lunch, just inside the main entrance (see the floor plan) so it's the first thing guests hear, adding to the "classy feel". Since it is for _Whaaat!?_, it would be fun for them to do hot dog related songs (like "Take Me Out to the Ball Game") or video game music in a classical style.
 2. **The herald:** When a Hero's dog arrives, their personal herald announces it to the room. Status becomes something the whole lobby can hear, which also doubles as an ad for the Hero pass.
 
 ## 💭Reflection
