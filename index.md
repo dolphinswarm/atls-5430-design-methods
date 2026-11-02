@@ -17,6 +17,7 @@ week's write-up, sketches, and prototypes.
 | 05  | [Cognitive Reloading](week-5-cognitive-reloading/)                                   | A prototype app that gradually hands cognitive work back to the user.        |
 | 06  | [Multisensory Space](week-6-multisensory-space/)                                     | Reflecting on a non-visual experience, then designing a space to decompress. |
 | 08  | [🏗️Imagined Affordances and Signifiers](week-8-imagined-affordances-and-signifiers/) | Spotting failed affordances and signifiers in the wild, then redesigning.    |
+| 09  | [🏗️Hot Dog Bar](week-9-hot-dog-bar/)                                                 | Planning a festival hot dog bar in the ATLAS lobby.                          |
 
 (🏗️ = WIP)
 
