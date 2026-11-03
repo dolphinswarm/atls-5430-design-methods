@@ -39,7 +39,7 @@ Cocktails are part of the experience too. Alongside their dog, guests 21 and ove
 ![ATLAS lobby floor plan](img/floor-plan.png)
 _The ATLAS lobby floor plan for the hot dog bar._
 
-The lobby is set up cocktail-style, with 13 small standing tables in a staggered layout. This encourages the guests to mingle and socialize, making the most of their time at _Whaaat!?_ instead of having to make their own hot dog and sit in a dedicated seat. Since guests won't be sitting down, the tables are spaced to allow servers to move freely and avoid bottlenecks. The two hot dog rollers are located in a "kitchen" area, where servers can build the hot dogs and hand them out to guests. Each table has a brass card holder, with several order cards, and a few feather pens, where guests can fill out a card with their desired toppings. A server will then pick up the card and bring it to the "kitchen", where the hot dog is built and delivered to the guest, based on the numbered placard at their table.
+The lobby is set up cocktail-style, with 13 small standing tables in a staggered layout. This encourages the guests to mingle, making the most of their time at _Whaaat!?_ instead of having to make their own hot dog and sit in a dedicated seat. Since guests won't be sitting down, the tables are spaced to allow servers to move freely and avoid bottlenecks. The two hot dog rollers are located in a "kitchen" area, where servers can build the hot dogs and hand them out to guests. Each table has a brass card holder, with several order cards, and a few feather pens, where guests can fill out a card with their desired toppings. A server will then pick up the card and bring it to the "kitchen", where the hot dog is built and delivered to the guest, based on the numbered placard at their table.
 
 ### 🚶Guest Flow
 
@@ -49,7 +49,7 @@ The lobby is set up cocktail-style, with 13 small standing tables in a staggered
 4. **Delivery:** Finished dogs leave Fen's on a covered tray (cloche) with their card, and servers then deliver the hot dog to the guest, based on the number on the placard, lifting the cover at the table (see Smell below). Cocktails ride along on the same tray, already sitting on their coaster (see Build Sign below). The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
 5. **Trash:** Since the servers will already be busy enough as-is, trash is self-serve. There's three spots spread around the room so no single spot gets crowded.
 
-This setup helps to avoid the bottlenecks that would occur if guests had to wait in line to order, and it allows them to enjoy the festival while their hot dog is being built. It also allows for a more elegant experience, as guests can mingle and socialize instead of standing in line.
+Since ordering happens at the tables, there's no line for guests to wait in and no line to bottleneck.
 
 This setup being very server-driven definitely presents its own challenges; there could literally be "too many cooks in the kitchen" building hot dogs, and have its own bottleneck. Also, the servers (6-8 total) would have LOTS of constant responsibility, including:
 
@@ -63,7 +63,7 @@ This setup being very server-driven definitely presents its own challenges; ther
 - Delivering hot dogs and cocktails to guests
 - Collecting trash, if overflowing
 
-...but the benefits of this setup outweigh the challenges IMO, and it allows for a more elegant and enjoyable experience for the guests. Additionally, servers would hopefully be able to make hot dogs quickly and efficiently by following the order card, and the layout in Fen's Cafe would be designed to make it simple for the servers (see below).
+...but the benefits of this setup outweigh the challenges IMO. And servers would hopefully be able to make hot dogs quickly and efficiently by following the order card, and the layout in Fen's Cafe would be designed to make it simple for the servers (see below).
 
 ## 🌭Condiments and How They're Organized
 
@@ -111,7 +111,7 @@ The order card also tags each topping as vegan, vegetarian, gluten-free, contain
 
 The ask here is for a hot dog _bar_, so naturally, a bar should have alcoholic beverages for us alcoholics. Thus, we have a specialty hot dog cocktail, perfect to pair with whatever glizzy you end up ordering.
 
-Meet _The Old Frankshioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle shot to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey (or bourbon) drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. Additionally, to cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
+Meet _The Old Frankshioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle shot to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey (or bourbon) drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. To cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
 
 ![The Old Frankshioned](img/prototype-step-3-garnished.jpg)
 
@@ -213,7 +213,7 @@ _The coaster, front (left) and back (right)._
 It's a 4" square coaster in the same black-and-gold style as the order card and placard:
 
 - **Front, the build:** An exploded diagram of the glass, with each ingredient drawn as its own layer, to scale (the 1½ oz of whiskey is six times the height of the ¼ oz pickle shot), and labeled with its pour. The bitters, ice, and garnish get called out too. This is what "demonstrates how it should be built", since guests can see the whole recipe at a glance, even though nobody stirred it in front of them.
-- **Back, the story:** The three steps from frank to glass (infuse, mix, pour), plus "Critical Acclaim," a pull quote from my honest first sip (see below).
+- **Back, the story:** The three steps from frank to glass (infuse, mix, pour), plus "Critical Acclaim," a pull quote from my honest reaction to the first sip (see below).
 - **Dietary note:** Matching the dietary tags on the order card, the front flags that it's infused with real hot dogs and isn't vegetarian, which nobody would guess from looking at a whiskey drink.
 
 ### 👅Tasting Notes
@@ -253,7 +253,7 @@ For example, here could be Frank's order, and the clues / snippets of Frank's li
 
 So, an elephant in the room: with the actual "bar" being inside Fen's Cafe and only accessible to servers, the alluring smell of hot dogs and toppings won't be detectable from the lobby; if it is, not nearly as strong. After all, there's a reason gas stations have hot dog rollers out - to get you hungry by seeing and smelling it. Thus, we have a few options to make the smell more present in the lobby:
 
-1. **Scented candles:** Place some candles on each of the tables, with scents that evoke hot dogs and toppings. This would help serve as a substitute for not directly having hot dog rollers in the lobby.
+1. **Scented candles:** Place some candles on each of the tables, with scents that evoke hot dogs and toppings. This would help make up for not having hot dog rollers directly in the lobby.
 2. **Fans:** Install fans in the kitchen that blow the smell of hot dogs and toppings into the lobby, a la what some bakeries do (looking at you, Boudin's Sourdough on Fisherman's Wharf in SF) to entice customers.
 3. **Covered serving trays:** Have servers carry the hot dogs on covered trays, and when they arrive at the table, they can lift the cover to reveal the hot dog and its aroma. This would help to create a sense of anticipation and excitement for the guests as well.
 
@@ -283,4 +283,4 @@ Some ideas for improving the audio experience include:
 
 ## 💭Reflection
 
-_What you learned._
+_To be filled out in a few weeks!_
