@@ -44,7 +44,7 @@ The lobby is set up cocktail-style, with 13 small standing tables in a staggered
 1. **Entrances:** Guests can arrive from any side: the building's main entrance at the lower right, the doors from the surrounding auditoriums and rooms, or the hallway at the top. Because cards wait on every table, there's no single starting point to crowd, so guests can go to whatever table they want.
 2. **Order at any table:** Every table has a brass card holder with order cards and gold-ink feather pens (ballpoint pens in a quill shape). Guests fill out their desired hot dog configuration, and a server will come by to collect the order card, check their ID if they ordered a cocktail, and verify their "status" (tier); once this is done, the server provides a numbered placard, fills in the order number, and takes the card to the "kitchen" in Fen's Cafe. For visually-impaired guests, servers can read the card aloud and take the order by voice instead.
 3. **Fen's Cafe (staff only):** Fen's Cafe is where the rollers and toppings are. Servers come here to build the hot dogs, based on order cards. The rollers are reloaded as dogs come off, so a fresh batch is always heating. If a guest ordered a cocktail, it's mixed here as well.
-4. **Delivery:** Finished dogs leave Fen's on a covered tray (cloche) with their card, and servers then deliver the hot dog to the guest, based on the number on the placard, lifting the cover at the table (see Smell below). The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
+4. **Delivery:** Finished dogs leave Fen's on a covered tray (cloche) with their card, and servers then deliver the hot dog to the guest, based on the number on the placard, lifting the cover at the table (see Smell below). Cocktails ride along on the same tray, already sitting on their coaster (see Build Sign below). The placard is collected for reuse. If a placard can't be found, the server calls out the guest name written on the order card instead.
 5. **Trash:** Since the servers will already be busy enough as-is, trash is self-serve. There's three spots spread around the room so no single spot gets crowded.
 
 This setup helps to avoid the bottlenecks that would occur if guests had to wait in line to order, and it allows them to enjoy the festival while their hot dog is being built. It also allows for a more elegant experience, as guests can mingle and socialize instead of standing in line.
@@ -103,17 +103,17 @@ _Fen's Cafe, set up as the kitchen. Stations follow the order card, from the rol
 
 The order card also tags each topping as vegan, vegetarian, gluten-free, containing nuts, or shellfish, so guests with dietary needs can check before they order, or mention it on their "Special Requests" on the order card. On the line, peanut butter and the shellfish each get their own utensils, so they don't cross-contaminate other toppings.
 
-## ⭐Specialty Dog: _The Old Frankioned_
+## ⭐Specialty Dog: _The Old Frankshioned_
 
-> ⚠️**DISCLAIMER**: Obviously, the Whaaat!? Festival is an all-ages, family-friendly event, and does/would not serve alcohol. This is a playful concept for IF the festival were to serve cocktails for all guests 21 and over.
+> ⚠️**DISCLAIMER**: Obviously, the _Whaaat!?_ Festival is an all-ages, family-friendly event, and does/would not serve alcohol. This is a playful concept for IF the festival were to serve cocktails for all guests 21 and over.
 
 The ask here is for a hot dog _bar_, so naturally, a bar should have alcoholic beverages for us alcoholics. Thus, we have a specialty hot dog cocktail, perfect to pair with whatever glizzy you end up ordering.
 
-Meet _The Old Frankioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. Additionally, to cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
+Meet _The Old Frankshioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle shot to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey (or bourbon) drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. Additionally, to cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
+
+![The Old Frankshioned](img/prototype-step-3-garnished.jpg)
 
 ### 🍸The Recipe
-
-> 📝**NOTE:** This is the planned build, and it hasn't been taste-tested yet. Measurements may change once I try it (see Tasting Notes below).
 
 **Ingredients:**
 
@@ -130,18 +130,14 @@ Meet _The Old Frankioned_: a hot dog flavored Old Fashioned. It's built on whisk
 3. Strain over one large ice cube in a rocks glass.
 4. Garnish with a cocktail glizzy and a mini pickle on a toothpick.
 
-**Why it (hopefully) works:** Meat-infused whiskey in an Old Fashioned already has a famous precedent: the [Benton's Old Fashioned](https://punchdrink.com/recipes/bentons-old-fashioned/) at PDT in NYC, made with bacon fat-washed bourbon and maple syrup. The Doritos liquor is unsweetened and the same strength as whiskey, so it works as a split base, adding earthy corn and pepper notes rather than a full cheese bomb. The pickle is kept to a bar spoon, just enough brine to brighten the drink without taking over.
-
-If the infusion comes out rough, the backup plan is a sour (with lemon, simple syrup, and egg white), since citrus and foam are a lot more forgiving.
-
-### 🧪Infusion: Hot Dog Whiskey
+### 🧪The Creation Process: Infusion and Mixing
 
 The base of the cocktail is a homemade hot dog-infused whiskey:
 
 ![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg)
 _Crown Royal Blenders' Mash, loaded with hot dog._
 
-To make this, I first boiled the glizzies to cook them through, then seared them in a pan for some extra flavor. After slicing them into small coins, I fed them into a bottle of whiskey. I used Crown Royal Blenders' Mash since I had it on hand (thank you Jay), but any whiskey will do; infusions tend to do better with higher-proofs, so my personal recommendation is Wild Turkey 101. The bottle then steeped for 48 hours, allowing the hot dog flavor to dissolve into the whiskey.
+To make this, I first boiled the glizzies to cook them through, then seared them in a pan for some extra flavor. After slicing them into small coins, I fed them into a bottle of whiskey. I used Crown Royal Blenders' Mash since I had it on hand (thank you Jay), but any whiskey will do; infusions tend to do better with higher-proofs, so my personal recommendation is Wild Turkey 101. The bottle then steeped for 24-48 hours, allowing the hot dog flavor to dissolve into the whiskey.
 
 <details class="contraband" markdown="1">
   <summary>View the infusion process</summary>
@@ -168,22 +164,62 @@ _Step 6: The bottle, fully loaded._
 ![Hot dog pieces steeping in the whiskey](img/infusion-step-7-steeping.jpg)
 _Step 7: Steeping in the whiskey._
 
+![The bottle after infusing](img/infusion-step-8-infused.jpg)
+_Step 8: Done infusing._
+
+<video src="img/infusion-step-9-inspecting.mp4" poster="img/infusion-step-9-inspecting.jpg" controls muted playsinline preload="none"></video>
+_Step 9: A closer look at the glizzy coins after infusing._
+
+<video src="img/infusion-step-10-straining.mp4" poster="img/infusion-step-10-straining.jpg" controls muted playsinline preload="none"></video>
+_Step 10: Straining the whiskey into a decanter, leaving the glizzies behind._
+
   </div>
 </details>
 
-Once it's done infusing, the plan is to:
+Once it was done infusing, I strained the whiskey through a funnel strainer into a decanter (empty bottle).
 
-1. Strain the whiskey through a coffee filter-lined funnel into a jar, since the hot dog pieces won't come back out of the bottle's narrow neck easily.
-2. Freeze the jar for a few hours, so any fat from the hot dogs solidifies on top (a technique called "fat-washing").
-3. Strain again to remove the fat, leaving a clear whiskey that still tastes like hot dog.
+**Optional:** For a cleaner, less greasy whiskey, it can also be fat-washed: freeze the strained whiskey for a few hours so any fat from the glizzies solidifies on top, then strain it again through a coffee filter. I didn't because I'm lazy and wanted the full hot dog flavor, but if you want your hot dog liquor to be transparent and not cloudy, this is the way to go.
 
-### 🪧Build Sign
+With the hot dog whiskey ready, I made a prototype of The Old Frankshioned at home, following the recipe above:
 
-TODO: A recipe card for The Bar station in Fen's Cafe, showing servers how to build The Old Frankioned. A smaller version doubles as a take-home souvenir card for guests.
+![The finished Old Frankshioned with its ingredients](img/prototype-step-5-final.jpg)
+_The Old Frankshioned prototype, with everything that went into it._
+
+<details class="contraband" markdown="1">
+  <summary>View the making process</summary>
+  <div class="body" markdown="1">
+
+![The cocktail ingredients lined up on the counter](img/prototype-step-1-ingredients.jpg)
+_Step 1: The ingredients: the hot dog whiskey (in a decanter), Angostura bitters, Empirical x Doritos, The Original Pickle Shot, and maple syrup._
+
+<video src="img/prototype-step-2-mixing.mp4" poster="img/prototype-step-2-mixing.jpg" controls muted playsinline preload="none"></video>
+_Step 2: Measuring each ingredient into the glass over ice, then stirring._
+
+![The garnished Old Frankshioned](img/prototype-step-3-garnished.jpg)
+_Step 3: Garnished with a glizzy and a pickle on a pick._
+
+  </div>
+</details>
+
+### 🪧Build Sign: The Coaster
+
+Since the cocktail is pre-batched, guests never actually see it get built; it just shows up at their table. So instead of a sign at the bar, the "sign" is the coaster the drink is served on. It rides out on the cloche tray with the glass already sitting on it, so the answer to "wait, what am I drinking?" is right there when the guest asks it. It's also theirs to keep, so it doubles as a take-home souvenir.
+
+![The Old Frankshioned coaster, front and back](img/coaster.png)
+_The coaster, front (left) and back (right)._
+
+It's a 4" square coaster in the same black-and-gold style as the order card and placard:
+
+- **Front, the build:** An exploded diagram of the glass, with each ingredient drawn as its own layer, to scale (the 1½ oz of whiskey is six times the height of the ¼ oz pickle shot), and labeled with its pour. The bitters, ice, and garnish get called out too. This is what "demonstrates how it should be built", since guests can see the whole recipe at a glance, even though nobody stirred it in front of them.
+- **Back, the story:** The three steps from frank to glass (infuse, mix, pour), plus "Critical Acclaim," a pull quote from my honest first sip (see below).
+- **Dietary note:** Matching the dietary tags on the order card, the front flags that it's infused with real hot dogs and isn't vegetarian, which nobody would guess from looking at a whiskey drink.
 
 ### 👅Tasting Notes
 
-TODO: How it actually tastes, and any changes to the recipe.
+<video src="img/prototype-step-4-tasting.mp4" poster="img/prototype-step-4-tasting.jpg" controls muted playsinline preload="none"></video>
+_The first sip._
+
+I was all geared up to use the "It tastes like burning!" clip by Ralph Wiggum from _The Simpsons_ as a reaction to the first sip, but it was a resounding... not terrible. It's not good by any means, but it tastes like a hot dog thanks to the combo of infused whiskey, Doritos liquor, and pickle shot, so... lives up to the name. It's a weird mix of sweet and salty/briny, and doesn't particularly strike me as being an Old Fashioned variant, but it'd at least would be a fun thing for people to try at the festival.
 
 ## 🕵️Voucher / Challenge: Clue-Style Hot Dog Deduction
 
@@ -234,7 +270,7 @@ I think taste is pretty self-explanatory here, since it is a hot dog bar with a 
 
 ### 🤌Touch
 
-There isn't a ton of touch involved with a black-tie served hot dog bar, since users aren't building their own hot dogs. However, the hot dogs themselves do offer a tactile experience. Depending on the bun, choice of toppings, etc., the hot dog can be soft, crunchy, chewy, or even cold (if you get ice cream on it).
+There isn't a ton of touch involved with a black-tie served hot dog bar, since users aren't building their own hot dogs. However, the hot dogs themselves do offer a tactile experience. Depending on the bun, choice of toppings, etc., the hot dog can be soft, crunchy, chewy, or even cold (if you get ice cream on it). Cocktail drinkers also get the coaster, a thick card they can pick up, flip over, and pocket on the way out.
 
 ### 🎻Sound
 
