@@ -24,6 +24,8 @@ _In pairs, design a floor plan for a spatial experience: **the Hot Dog Bar at th
 
 **Partner:** Pierce
 
+**Design file:** [Open in Figma ↗](https://www.figma.com/design/gbRaMirAU8nXXbIkg7GQeE/%F0%9F%8C%ADWeek-9---Hot-Dog-Bar?node-id=0-1)
+
 ---
 
 ## 🎩Concept: A Black-Tie Hot Dog Bar Gala
