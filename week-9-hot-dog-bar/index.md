@@ -225,27 +225,32 @@ I was all geared up to use the "It tastes like burning!" clip by Ralph Wiggum fr
 
 ## 🕵️Voucher / Challenge: Clue-Style Hot Dog Deduction
 
-Our challenge is a Clue-style mystery. At the beginning of the event, it's announced that a "culprit" named Frank has placed one very specific hot dog order, and guests must deduce what it is, based on Frank's life story. Clues to it are scattered across the _Whaaat!? Festival_: at speaker talks, events, within student-developed games, and locations around the Roser ATLAS Center. Each clue rules out part of the order, like the frank, a whole tier, or a single topping. Guests who work out the exact order check it off on an order card and hand it to a server as their accusation. Whoever first correctly identifies the culprit's order wins a fabulous prize, and is henceforth known as the "Glizzy Sleuth" for the rest of the event.
+Our challenge is a Clue-style mystery. At the beginning of the event, it's announced that Danny, the _Whaaat!?_ organizer and hot dog lord, has placed one very specific hot dog order, and guests must deduce what it is, based on Danny's life story. Clues to it are scattered across the _Whaaat!? Festival_: at speaker talks, events, within student-developed games, and locations around the Roser ATLAS Center. Each clue rules out part of the order, like the frank, a whole tier, or a single topping. Guests who work out the exact order check it off on an order card and hand it to a server as their guess.
+
+Anyone who orders the very same dog as Danny receives the _Great Minds Frank Alike_ award, delivered on the cloche tray alongside their dog, and signed and dated by Danny. Whoever matches Danny's order first is also henceforth known as the "Glizzy Sleuth" for the rest of the event.
+
+![The Great Minds Frank Alike award](img/danny-award.png)
+_The Great Minds Frank Alike award, presented to guests who match Danny's order._
 
 To keep the mystery from getting in anyone's way, every clue hides in something the festival already hands out or shows, rather than on new signage. Each one is marked with the same small gold hot dog emblem from the top of the order card, so players learn to spot them, while everyone else just sees a cute logo. Where possible, the clue also matches its location (the cereal clue lives at the cereal breakfast, for example). Any clue that's essential to solving the mystery lives somewhere every pass type can reach, since Tourists don't get passports.
 
 ### 🔍Example Order and Clues
 
-For example, here could be Frank's order, and the clues / snippets of Frank's life story that lead to it:
+For example, here could be Danny's order, and the clues / snippets of Danny's life story that lead to it:
 
 - **Frank:** All-beef
 - **Bun:** Brioche
 - **Toppings:** Nacho cheese sauce (Peasant), kimchi (Friar), fruity cereal crunch (Jester)
 
-| Where it's hidden                                                 | Type     | Clue                                                                                                                                    | What it reveals                          |
-| ----------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| The card holder on every table, under "A culprit lurks among us…" | Table    | _"Frank is a simple man: three toppings, and never two from the same tier."_                                                            | Three toppings, three tiers              |
-| A sticker in the festival sticker pack                            | Swag     | _"Frank grew up on his family's cattle ranch, and he stays loyal to the herd."_                                                         | All-beef frank                           |
-| The "Hot Dog Bar" stamp page in the passport                      | Swag     | _"Frank has humble roots, but expensive taste in bread: nothing without butter and eggs."_                                              | Brioche bun                              |
-| A transition slide in a speaker's talk                            | Speaker  | _"Born to a poor family in a landlocked village, Frank has never seen the sea. A childhood mishap at the forge left him wary of fire."_ | No Sailor, Blacksmith, or Noble toppings |
-| An easter egg in a student-developed game                         | Game     | _"Frank never forgot the minor-league ballpark back home, where everything came smothered in something warm and orange."_               | Nacho cheese sauce (Peasant)             |
-| Fen's Cafe's chalkboard menu, facing the lobby                    | Location | _"As a teen, Frank spent a summer at a mountain monastery outside Seoul, and he still craves what the monks kept in clay jars."_        | Kimchi (Friar)                           |
-| The cereal breakfast's sign and napkins                           | Event    | _"Frank is still a kid at heart, and never outgrew Saturday cartoons with a bowl in his lap."_                                          | Fruity cereal crunch (Jester)            |
+| Where it's hidden                                                     | Type     | Clue                                                                                                                                          | What it reveals                          |
+| --------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| The card holder on every table, under "Can you order what Danny did?" | Table    | _"Danny is a creature of habit: three toppings, and never two from the same tier."_                                                           | Three toppings, three tiers              |
+| A sticker in the festival sticker pack                                | Swag     | _"Danny grew up on the family cattle ranch, and stays loyal to the herd."_                                                                    | All-beef frank                           |
+| The "Hot Dog Bar" stamp page in the passport                          | Swag     | _"Danny has humble roots, but expensive taste in bread: nothing without butter and eggs."_                                                    | Brioche bun                              |
+| A transition slide in a speaker's talk                                | Speaker  | _"Raised in a landlocked village on a shoestring budget, Danny has never seen the sea. A childhood mishap at the forge left a fear of fire."_ | No Sailor, Blacksmith, or Noble toppings |
+| An easter egg in a student-developed game                             | Game     | _"Danny never forgot the minor-league ballpark back home, where everything came smothered in something warm and orange."_                     | Nacho cheese sauce (Peasant)             |
+| Fen's Cafe's chalkboard menu, facing the lobby                        | Location | _"As a teen, Danny spent a summer at a mountain monastery outside Seoul, and still craves what the monks kept in clay jars."_                 | Kimchi (Friar)                           |
+| The cereal breakfast's sign and napkins                               | Event    | _"Years before organizing the Hot Dog Bar, Danny was a kid glued to Saturday cartoons with a bowl in hand, and still is at heart."_           | Fruity cereal crunch (Jester)            |
 
 ## 🎭Multisensory Considerations
 
