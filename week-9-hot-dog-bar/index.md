@@ -22,7 +22,7 @@ _In pairs, design a floor plan for a spatial experience: **the Hot Dog Bar at th
 
 **Constraints:** _Two hot dog rollers (30 dogs each) dispense the sausages. Plan to feed 75 people during lunch, 12:30-1:30. Include considerations of multi-sensory design._
 
-**Partner:** Pierce
+**Team:** Brad & Pierce
 
 **Design file:** [Open in Figma ↗](https://www.figma.com/design/gbRaMirAU8nXXbIkg7GQeE/%F0%9F%8C%ADWeek-9---Hot-Dog-Bar?node-id=0-1)
 
@@ -30,9 +30,9 @@ _In pairs, design a floor plan for a spatial experience: **the Hot Dog Bar at th
 
 ## 🎩Concept: A Black-Tie Hot Dog Bar Gala
 
-For the [_Whaaat!? Festival_](https://whaaat.io/), rather than make the hot dog bar be a disorganized, cluttered, self-serve proletariat free-for-all, we want to "offload" the stress of building a hot dog. Thus, we're offering the most luxurious and elegant hot dog experience possible, with a server to build the dog and bring it to the guest. Guests can mingle and enjoy the festival, while servers handle the logistics of building and delivering hot dogs. We build on that with a cocktail-style layout, specialty toppings, and a playful mystery challenge.
+For the [_Whaaat!? Festival_](https://whaaat.io/), rather than make the hot dog bar be a disorganized, cluttered, self-serve proletariat free-for-all, we want to "offload" the stress of building a hot dog. Thus, we're offering the most luxurious and elegant hot dog experience possible, with a server to build the dog and bring it to the guest. Guests can mingle and enjoy the festival, while servers handle the logistics of building and delivering hot dogs. We build on that with a cocktail-style layout, specialty toppings, two specialty dogs, and a playful mystery challenge.
 
-Cocktails are part of the experience too. Alongside their dog, guests 21 and over can order our specialty dog: a hot dog cocktail. Servers check ID before taking a cocktail order.
+Cocktails are part of the experience too. Alongside their dog, guests 21 and over can order Brad's specialty dog: a hot dog cocktail. Servers check ID before taking a cocktail order. For everyone else, Pierce's specialty is an off-menu plate of loaded mini hot dogs.
 
 ## 🗺️Floor Plan
 
@@ -63,7 +63,7 @@ This setup being very server-driven definitely presents its own challenges; ther
 - Delivering hot dogs and cocktails to guests
 - Collecting trash, if overflowing
 
-...but the benefits of this setup outweigh the challenges IMO. And servers would hopefully be able to make hot dogs quickly and efficiently by following the order card, and the layout in Fen's Cafe would be designed to make it simple for the servers (see below).
+...but the benefits of this setup outweigh the challenges in our opinion. And servers would hopefully be able to make hot dogs quickly and efficiently by following the order card, and the layout in Fen's Cafe would be designed to make it simple for the servers (see below).
 
 ## 🌭Condiments and How They're Organized
 
@@ -105,7 +105,7 @@ _Fen's Cafe, set up as the kitchen. Stations follow the order card, from the rol
 
 The order card also tags each topping as vegan, vegetarian, gluten-free, containing nuts, or shellfish, so guests with dietary needs can check before they order, or mention it on their "Special Requests" on the order card. On the line, peanut butter and the shellfish each get their own utensils, so they don't cross-contaminate other toppings.
 
-## ⭐Specialty Dog: _The Old Frankshioned_
+## ⭐Brad's Specialty Dog: _The Old Frankshioned_
 
 > ⚠️**DISCLAIMER**: Obviously, the _Whaaat!?_ Festival is an all-ages, family-friendly event, and does/would not serve alcohol. This is a playful concept for IF the festival were to serve cocktails for all guests 21 and over.
 
@@ -223,6 +223,23 @@ _The first sip._
 
 I was all geared up to use the "It tastes like burning!" clip by Ralph Wiggum from _The Simpsons_ as a reaction to the first sip, but it was a resounding... not terrible. It's not good by any means, but it tastes like a hot dog thanks to the combo of infused whiskey, Doritos liquor, and pickle shot, so... lives up to the name. It's a weird mix of sweet and salty/briny, and doesn't particularly strike me as being an Old Fashioned variant, but it'd at least would be a fun thing for people to try at the festival.
 
+## 🧀Pierce's Specialty Dog: _Nacho Average Dog_
+
+Pierce's specialty is an off-menu special: a plate of mini hot dogs, loaded up nachos-style. It isn't printed on the order card; instead, the sign stands on every table next to the card holder, as a pre-built option for guests who'd rather not build their own. To order it, guests just write it under "Special Requests." Every topping already lives on the line in Fen's Cafe, so the kitchen doesn't need to stock anything new beyond the mini dogs.
+
+![The Nacho Average Dog sign](img/specialty-sign.png)
+_The Nacho Average Dog build sign._
+
+The sign uses the same black-and-gold style as the rest of the bar, with a stacked diagram of the plate and each layer labeled, so it reads "build it from the plate up":
+
+1. **Base:** Mini hot dogs
+2. **Melt:** Nacho cheese sauce
+3. **Chili:** Beef chili
+4. **Pico:** Pico de gallo
+5. **Top:** Pickled jalapeños
+6. **Crunch:** Crushed potato chips
+7. **Drizzle:** Sriracha
+
 ## 🕵️Voucher / Challenge: Clue-Style Hot Dog Deduction
 
 Our challenge is a Clue-style mystery. At the beginning of the event, it's announced that Danny, the _Whaaat!?_ organizer and hot dog lord, has placed one very specific hot dog order, and guests must deduce what it is, based on Danny's life story. Clues to it are scattered across the _Whaaat!? Festival_: at speaker talks, events, within student-developed games, and locations around the Roser ATLAS Center. Each clue rules out part of the order, like the frank, a whole tier, or a single topping. Guests who work out the exact order check it off on an order card and hand it to a server as their guess.
@@ -264,7 +281,7 @@ So, an elephant in the room: with the actual "bar" being inside Fen's Cafe and o
 
 ### 👅Taste
 
-I think taste is pretty self-explanatory here, since it is a hot dog bar with a wide variety of toppings. The taste of the hot dogs and toppings will be the main focus of the experience, ranging from classic to straight-up unhinged. Each tier has its own flavor profile, so guests can mix and match for some contrast:
+We think taste is pretty self-explanatory here, since it is a hot dog bar with a wide variety of toppings. The taste of the hot dogs and toppings will be the main focus of the experience, ranging from classic to straight-up unhinged. Each tier has its own flavor profile, so guests can mix and match for some contrast:
 
 - **Peasant:** Tangy, sweet, and salty ballpark classics
 - **Sailor:** Briny and buttery seafood
@@ -277,7 +294,7 @@ I think taste is pretty self-explanatory here, since it is a hot dog bar with a 
 
 ### 🤌Touch
 
-There isn't a ton of touch involved with a black-tie served hot dog bar, since users aren't building their own hot dogs. However, the hot dogs themselves do offer a tactile experience. Depending on the bun, choice of toppings, etc., the hot dog can be soft, crunchy, chewy, or even cold (if you get ice cream on it). Cocktail drinkers also get the coaster, a thick card they can pick up, flip over, and pocket on the way out.
+There isn't a ton of touch involved with a black-tie served hot dog bar, since users aren't building their own hot dogs. However, the hot dogs themselves do offer a tactile experience. Depending on the bun, choice of toppings, etc., the hot dog can be soft, crunchy, chewy, or even cold (if you get ice cream on it). The Nacho Average Dog is the messiest of the bunch, with gooey cheese and chili under a crunchy layer of chips. Cocktail drinkers also get the coaster, a thick card they can pick up, flip over, and pocket on the way out.
 
 ### 🎻Sound
 
