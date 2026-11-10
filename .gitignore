@@ -10,5 +10,11 @@ vendor/
 .DS_Store
 Thumbs.db
 
+# TouchDesigner auto-backups (any depth)
+Backup/
+
+# TouchDesigner raw Movie File Out exports (encode to img/*.mp4 instead)
+TDMovieOut*
+
 # Private working notes
 _notes.md
