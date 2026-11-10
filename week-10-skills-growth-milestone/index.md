@@ -56,7 +56,7 @@ I started with a GLSL TOP whose pixel shader just paints each pixel's UV coordin
 ![UV gradient in a GLSL TOP](img/process/step-1.png)
 _UVs as color. (0, 0) is bottom-left in TD._
 
-One interesting thing with TouchDesigner is it has a unique function called `TDOutputSwizzle` basically for cross-platform management and a few other things, [so had to learn about and use it via the docs](https://docs.derivative.ca/Write_a_GLSL_TOP#Output_Swizzle). Also, to get the image itself, [there's a built-in function called `sTD2DInputs`](https://docs.derivative.ca/Write_a_GLSL_TOP#Sampling_Inputs) that gets data input into the TOP.
+One interesting thing with TouchDesigner is it has a unique function called `TDOutputSwizzle` basically for cross-platform management and a few other things, [so I had to learn about and use it via the docs](https://docs.derivative.ca/Write_a_GLSL_TOP#Output_Swizzle). Also, to get the image itself, [there's a built-in function called `sTD2DInputs`](https://docs.derivative.ca/Write_a_GLSL_TOP#Sampling_Inputs) that gets data input into the TOP.
 
 ### 2. An image passes through
 
@@ -78,7 +78,7 @@ _The song feeds the speakers and audioAnalysis._
 
 On the GLSL TOP's **Vectors** page, I then created a uniform (passed-in parameter) called `uKick`, which directly pulls data from a channel in the audio analysis via some Python in `op('audioAnalysis1/out1')['kick']`.
 
-The effect initially did was:
+What the effect initially did was:
 
 ```glsl
 uv = (uv - 0.5) * (1.0 - 0.1 * kick) + 0.5;
@@ -118,7 +118,7 @@ _The frame pops brighter on each snare._
 
 #### Slit-scan (kick)
 
-The centerpiece, and the most new-to-me as far as GLSL code goes. I cut the image into horizontal bands and shoved about half of them sideways on each kick. Shaders don't have a `random()`, so I used a "hash" to scramble number I chose into something that _looks_ random.
+The centerpiece, and the most new-to-me as far as GLSL code goes. I cut the image into horizontal bands and shoved about half of them sideways on each kick. Shaders don't have a `random()`, so I used a "hash" to scramble a number I chose into something that _looks_ random.
 
 ```glsl
 float Hash(float n) { return fract(sin(n * 127.1) * 43758.5453); }
@@ -155,7 +155,7 @@ _The Feedback TOP hands back the previous frame._
 
 **Cutting the zoom.** The kick zoom plus outward-streaming trails made everything pulse. I wanted it to glitch _in place_, so both went.
 
-**Swapping the flash for tears.** The flash felt like a blinding strobe, which I didn't like I wanted glitch _bands_, so the snare now tears thin vertical columns, and the color split only hits glitched bands.
+**Swapping the flash for tears.** The flash felt like a blinding strobe, which I didn't like. I wanted glitch _bands_, so the snare now tears thin vertical columns, and the color split only hits glitched bands.
 
 **Where it broke: the random numbers stopped being random.** The tears never showed. `Hash()` evidently was shitting the bed once big numbers got involved, and `uTime` (TD's absolute clock) was in the thousands, so every column got the same "random" answer. Wrapping time with `mod()` fixed it, and had probably been quietly killing the kick bands too:
 
