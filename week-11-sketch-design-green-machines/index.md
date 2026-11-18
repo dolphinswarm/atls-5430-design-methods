@@ -69,18 +69,12 @@ Based on this, I figured it'd be worth diving deeper both into its practicality 
 
 ### ⚙️How It Works
 
-The numbers match my sketch:
-
-1. Nothing changes in the field. The buried tile still drains extra water out of the soil so the crops don't drown, and that water still carries dissolved fertilizer with it.
-2. At the end of the pipe, the water passes through a filter basket. My sketch called it a big coffee filter, but the phosphorus from fertilizer is dissolved in the water, so a screen alone would let it right through. The basket needs to be full of material the phosphorus actually sticks to, like steel slag. A grated lid keeps debris out, and doubles as an animal guard so muskrats can't crawl up into the tile.
-3. The water spills onto the mini-swamp, a shelf planted with a mix of native wetland plants: mostly sedges, rushes, and grasses, with some cattails. The plants slow the water down so dirt settles out, soak up nitrogen and phosphorus as they grow, and their roots host bacteria that turn nitrate into harmless nitrogen gas. Keeping it a mix instead of pure cattails makes it less attractive to red-winged blackbirds (more on that [below](#making-it-practical)).
+1. Nothing changes in the field; the buried tile still drains extra water out of the soil so the crops don't drown, and that water still carries dissolved fertilizer with it.
+2. At the end of the pipe, the water passes through a filter basket. I originally sketched it as a "big coffee filter", but after doing a bit of research, I found out that the phosphorus from fertilizer is dissolved in the water, so a screen alone would let it right through. The basket needs to be full of material the phosphorus actually sticks to, like steel slag. A grated lid keeps debris out, and doubles as an animal guard so muskrats can't crawl up into the tile.
+3. The water spills onto the mini-swamp, a shelf planted with a mix of native wetland plants, such as sedges, rushes, grasses, and cattails. The plants slow the water down so dirt settles out, and soak up nitrogen and phosphorus as they grow.
 4. A berm (a low ridge of dirt) along the edge of the shelf holds a few inches of water in the swamp. Once the water gets deep enough, it spills through a notch in the berm into the ditch, then on to the river and the lake. The berm and notch are lined with rock, with wire mesh buried inside, so burrowing animals can't tunnel through it. The pipe sits above that water line, so the field still drains.
 
 The human part is mostly one visit a year. Each fall, the farmer (or the county Soil & Water Conservation District) cuts and hauls off the plants, which pulls the nutrients they soaked up out of the system for good, clears any junk out of the notch, and checks the berm for burrows. Every few years, the filter basket gets swapped once it's full, and the dirt that's settled in the swamp gets scraped out and spread back on the field it washed off of.
-
-### 📏Scale
-
-One mini-swamp per tile outlet, sized to the field it drains. It's farm-scale: bigger than a personal device, smaller than a public works project. A single farmer could build one, and a county could build thousands along its ditches. Each one is a tiny slice of swamp, but together they start to add back up to the Great Black Swamp.
 
 ### 🏛️Precedent
 
