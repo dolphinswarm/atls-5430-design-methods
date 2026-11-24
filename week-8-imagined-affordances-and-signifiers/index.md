@@ -38,7 +38,7 @@ _What each one signified, and what interaction it actually needed._
 {: .examples}
 | Sliding steel flap |
 | --- |
-| <video src="img/steel-flap-door-demo.mp4" width="2160" height="3840" poster="img/steel-flap-door.jpg" controls muted playsinline preload="none"></video> |
+| <video src="img/steel-flap-door-demo.mp4" width="1080" height="1920" poster="img/steel-flap-door.jpg" controls muted playsinline preload="none"></video> |
 | This is a weather flap that protects some USB plugs from the elements. I think that it does have a correct affordance in that it can be slid up, as well as having a hole at the bottom to protect the plug but allow the cord to still go through. However, sliding it too far makes it fall off, which kills the whole point of protecting the ports from the elements. |
 
 ### 🏷️Augmented Signifiers
