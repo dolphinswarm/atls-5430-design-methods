@@ -8,18 +8,19 @@ week's write-up, sketches, and prototypes.
 
 ## Weeks
 
-| #   | Week                                                                               | Notes                                                                                        |
-| --- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 01  | [Magical Interface](week-1-magical-interface/)                                     | A pen + sand interface, from partner interview to high-fidelity prototype.                   |
-| 02  | [Future of Visual Design](week-2-future-of-visual-design/)                         | An identity for a surviving "security" company under a post-brand regime.                    |
-| 03  | [Teach Me, Teach You](week-3-teach-me-teach-you/)                                  | Testing a partner's visual instructions, then teaching myself a new tool.                    |
-| 04  | [Trust the Process](week-4-trust-the-process/)                                     | Redrawing a partner's map of how I learn, then mining it for friction.                       |
-| 05  | [Cognitive Reloading](week-5-cognitive-reloading/)                                 | A prototype app that gradually hands cognitive work back to the user.                        |
-| 06  | [Multisensory Space](week-6-multisensory-space/)                                   | Reflecting on a non-visual experience, then designing a space to decompress.                 |
-| 08  | [Imagined Affordances and Signifiers](week-8-imagined-affordances-and-signifiers/) | Spotting failed affordances and signifiers in the wild, then redesigning.                    |
-| 09  | [Hot Dog Bar](week-9-hot-dog-bar/)                                                 | Planning a festival hot dog bar in the ATLAS lobby.                                          |
-| 10  | [Skills Growth Milestone](week-10-skills-growth-milestone/)                        | A new SMART goal in TouchDesigner, a plan, and how it went.                                  |
-| 11  | [🏗️Sketch Design: Green Machines](week-11-sketch-design-green-machines/)           | A mini-swamp at the end of farm drains, to filter water like the Great Black Swamp once did. |
+<!-- The list comes from _data/weeks.yml. Add new weeks there. -->
+<ol class="week-index">
+{%- for w in site.data.weeks %}
+  <li class="week-entry">
+    <span class="week-num" aria-hidden="true">{{ w.num }}</span>
+    <img class="week-thumb" src="{{ w.thumb | relative_url }}" alt="" width="640" height="400"{% if forloop.index > 3 %} loading="lazy"{% endif %}>
+    <div class="week-text">
+      <h3><a href="{{ w.url | relative_url }}"><span class="sr-only">Week {{ w.num }}: </span>{% if w.wip %}🏗️{% endif %}{{ w.title }}</a></h3>
+      <p>{{ w.note }}</p>
+    </div>
+  </li>
+{%- endfor %}
+</ol>
 
 (🏗️ = WIP)
 

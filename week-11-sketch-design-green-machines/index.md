@@ -30,10 +30,10 @@ _Post the sketches and final illustrations here._
 
 Northwest Ohio (where I'm from) used to be a huge wetland known as the [Great Black Swamp](https://en.wikipedia.org/wiki/Great_Black_Swamp), which held water and filtered it before it reached Lake Erie. However, it was drained for farmland in the late 1800s, and today most of those fields are "tiled" with buried pipes that drain the soil into ditches, which feed creeks and smaller rivers, then the Maumee, then the lake. Water that used to sit in the swamp for weeks now runs off the fields in hours, carrying fertilizer with it, and the phosphorus in that fertilizer feeds toxic algae blooms. Every summer, western Lake Erie turns into a gross algae-filled mess that wrecks the lake's ecosystem. In August 2014, one of those blooms made [Toledo's tap water undrinkable](https://www.michiganpublic.org/environment-science/2014-08-04/toledo-mayor-lifts-water-ban) for more than 400,000 people for three days. Crazy stuff.
 
-![Extent of the Great Black Swamp. Source: Toledo Blade](img/great-black-swamp.png)
+![Extent of the Great Black Swamp. Source: Toledo Blade](img/great-black-swamp.png){: width="641" height="600"}
 _The extent of the Great Black Swamp, made by the Toledo Blade. My hometown of Glandorf, OH is labeled on the map._
 
-![Satellite image of the Great Lakes. Lake Erie often is full of mud and algae.](img/great-lakes-satellite-view.png)
+![Satellite image of the Great Lakes. Lake Erie often is full of mud and algae.](img/great-lakes-satellite-view.png){: width="1280" height="856"}
 _From space, Lake Erie often looks full of mud/algae compared to the other Great Lakes._
 
 I want to bring back the swamp's water filtering. I was just home in Glandorf this past week (family obligations). It used to be part of the swamp and is still a very rural farming community, so it's been on my mind.
@@ -42,7 +42,7 @@ I want to bring back the swamp's water filtering. I was just home in Glandorf th
 
 I missed the in-class sketch session for those same family obligations, so I sketched on my own. Here was my original idea:
 
-![Initial sketch, pre-feedback](img/initial-sketch.jpg)
+![Initial sketch, pre-feedback](img/initial-sketch.jpg){: width="1551" height="1500"}
 
 A lot of ditches back home already feel like they're trying to reclaim some wetlands, full of cattails and reeds. That's mostly by accident, since ditches are wet, sunny, and full of fertilizer. They do filter a little, but ditches are often cleaned/mowed to keep the water moving, which wipes out the plants and stirs the trapped dirt and phosphorus back up.
 
@@ -58,7 +58,7 @@ So I dug deeper into both its practicality and its co-benefits.
 
 ## 🖼️The Concept: Filter and Mini-Swamp
 
-![Annotated illustration of the filter and mini-swamp](img/illustration.png)
+![Annotated illustration of the filter and mini-swamp](img/illustration.png){: width="1600" height="1000"}
 
 **▶️ Click-through walkthrough** (click or press → to bring in each step):
 

@@ -21,7 +21,7 @@ kind of experiment on yourself with a tool of your choosing._
 
 ## 🧠Part 1: Visual Instructions Exercise
 
-![Instructions](img/instructions.jpg)
+![Instructions](img/instructions.jpg){: width="1478" height="2044"}
 _The visual instructions I made for concocting a whiskey sour._
 
 For my activity, I described how to make a whiskey sour cocktail. While initially thinking it would be easy, I quickly realized the numerous gaps in my instructions/"design model", and how they might mess with a user's conceptual model. For starters, representing ingredients forced me to rely on some very abstract signifier: a bottle with sugarcane for simple syrup, a jug with corn for whiskey, a "bitter" face emote for Angostura bitters, etc. Even with these signifiers, someone without domain knowledge might have no idea what these ingredients are. I also had to use pie charts for ratios (i.e. something like 🌕🌕 for the whiskey, 🌗 for the simple syrup, etc.), since numbers weren't allowed. Thankfully, Pierce had some existing domain knowledge (his old roommate was a bartender), but without this, the system image would fail to communicate pretty much anything effectively to a true beginner.
@@ -40,7 +40,7 @@ My SMART goal was:
 
 I had no frame of reference for how to actually use it, and when you go to the website, you're greeted with:
 
-![Strudel](img/strudel.png)
+![Strudel](img/strudel.png){: width="1288" height="700"}
 _The Strudel interface, which has one line of code, a side panel, and some links._
 
 ...so figured it'd be a good challenge at the very least.
@@ -67,7 +67,7 @@ Strudel's starting UI is about as unintuitive as it gets. The one line of code o
 
 I hit the "▶️Play" button and it played a drum beat. Splendid. One nice thing about the UI is it highlights what's actively playing:
 
-![Strudel Playback](img/playback.png)
+![Strudel Playback](img/playback.png){: width="505" height="130"}
 _Strudel playback demonstration._
 
 So, from this line of code the play back was: kick (1), closed hi-hat (2), kick (3), open hi-hat (4), on loop. Because I knew what the sounds were, I could deduce that:
@@ -84,7 +84,7 @@ I pretty much struggled for 20 minutes. The "reference" tab was the best interna
 
 After floundering for 20 minutes, I looked at some YouTube tutorials, referenced Claude, and read some articles. Eventually, I came up with a pattern that hit my original goal of creating a short song with drums, a bassline, and a chord layer - no modification needed:
 
-![Final Song](img/finalsong.png)
+![Final Song](img/finalsong.png){: width="786" height="433"}
 _The final song I made, with a simple drum beat, a bassline, and some chords._
 
 <audio controls src="audio/beat.wav">

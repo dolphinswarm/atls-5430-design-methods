@@ -53,7 +53,7 @@ Also, using TouchDesigner's documentation and ShaderToy (among other shader reso
 
 I started with a GLSL TOP whose pixel shader just paints each pixel's UV coordinates as color. This is basically the shader version of "hello world":
 
-![UV gradient in a GLSL TOP](img/process/step-1.png)
+![UV gradient in a GLSL TOP](img/process/step-1.png){: width="483" height="1003"}
 _UVs as color. (0, 0) is bottom-left in TD._
 
 One interesting thing with TouchDesigner is it has a unique function called `TDOutputSwizzle` basically for cross-platform management and a few other things, [so I had to learn about and use it via the docs](https://docs.derivative.ca/Write_a_GLSL_TOP#Output_Swizzle). Also, to get the image itself, [there's a built-in function called `sTD2DInputs`](https://docs.derivative.ca/Write_a_GLSL_TOP#Sampling_Inputs) that gets data input into the TOP.
@@ -62,7 +62,7 @@ One interesting thing with TouchDesigner is it has a unique function called `TDO
 
 Next, a Movie File In TOP wired into the GLSL TOP's first input, and a shader that does nothing but sample the input texture and export it back out:
 
-![Image passing through the shader](img/process/step-2.png)
+![Image passing through the shader](img/process/step-2.png){: width="855" height="918"}
 _Input and output match._
 
 ### 3. Audio analysis running
@@ -71,7 +71,7 @@ For the audio, TD's sample song goes into an Audio File In CHOP, out to the spea
 
 The useful surprise was the _shape_ of the data. `high` is a smooth level that spikes on hi-hats and cymbals, but `kick` and `snare` are on/off: a flat 1 for about a tenth of a second on each hit, then straight back to 0. That helped me decide that hits are triggers, not fade-offs. However, if I did want to make them fade-offs, TouchDesigner does have a Lag CHOP for this exact purpose.
 
-![Song feeding the audioAnalysis component](img/process/step-3.png)
+![Song feeding the audioAnalysis component](img/process/step-3.png){: width="675" height="1009"}
 _The song feeds the speakers and audioAnalysis._
 
 ### 4. One channel drives one uniform
@@ -84,7 +84,7 @@ What the effect initially did was:
 uv = (uv - 0.5) * (1.0 - 0.1 * kick) + 0.5;
 ```
 
-![uKick bound on the Vectors page](img/process/step-4.png)
+![uKick bound on the Vectors page](img/process/step-4.png){: width="691" height="1054"}
 _The image punches in on each kick._
 
 ### 5. Glitch effects, one at a time
@@ -102,7 +102,7 @@ col.b = texture(sTD2DInputs[0], uv - split).b;
 
 Since `high` is smooth, the split breathed with the cymbals instead of snapping.
 
-![RGB split on the highs](img/process/step-5a.png)
+![RGB split on the highs](img/process/step-5a.png){: width="1060" height="775"}
 _Red and blue pull apart on the highs._
 
 #### Flash (snare)
@@ -113,7 +113,7 @@ _Red and blue pull apart on the highs._
 col = mix(col, smoothstep(0.1, 0.9, col), snare) + 0.25 * snare;
 ```
 
-![Snare flash](img/process/step-5b.png)
+![Snare flash](img/process/step-5b.png){: width="1527" height="1059"}
 _The frame pops brighter on each snare._
 
 #### Slit-scan (kick)
@@ -131,7 +131,7 @@ uv.x += (Hash(seed) - 0.5) * 0.24 * moving * kick * uSlit;
 
 `band` numbers each strip (more strips when the highs are up), `seed` reshuffles them 8 times a second, `moving` picks about half, and the last line shoves those left or right, only on a kick. That added two more uniforms: `uTime` and `uSlit` (a strength knob).
 
-![Slit-scan bands on a kick](img/process/step-5c.png)
+![Slit-scan bands on a kick](img/process/step-5c.png){: width="1548" height="1072"}
 _Strips jump sideways on each kick._
 
 ### 6. Echo trails and tuning
@@ -148,7 +148,7 @@ col = max(col, prev * fb);
 
 The key detail is `vUV.st` (untouched coordinates) instead of `uv` (already glitched).
 
-![Feedback TOP looping into the shader](img/process/step-6.png)
+![The shader with echo trails added: the Feedback TOP's previous frame comes in as the second input](img/process/step-6a.png){: width="1147" height="1207"}
 _The Feedback TOP hands back the previous frame._
 
 **Where it broke: the trails ate the glitch.** The slices looked weak because `max()` let the old, unshifted frame ghost back into the gaps. Doubling `uSlit` and shortening the trails (`uFeedback` 0.9 → 0.8) fixed it.
@@ -163,14 +163,17 @@ _The Feedback TOP hands back the previous frame._
 float seed = band + mod(floor(uTime * 8.0), 64.0) * 17.0;
 ```
 
+![The final shader: kick bands, snare column tears, and the color split inside glitched bands](img/process/step-6b.png){: width="1564" height="1060"}
+_The final shader: no zoom, snare tears instead of the flash, and `mod()` on the seeds._
+
 ## 🎵Outcome
 
 Did I accomplish this? **Yes**, though I overshot the time and it took closer to two and a half hours. The shader compiles clean, and each "band" has its own glitch effect.
 
-<video src="img/audio-glitch-shader.mp4" poster="img/audio-glitch-shader.jpg" controls playsinline preload="none"></video>
+<video src="img/audio-glitch-shader.mp4" width="1280" height="720" poster="img/audio-glitch-shader.jpg" controls playsinline preload="none"></video>
 _Sound on. Kicks slide bands, snares tear columns, highs split the color._
 
-![The final network](img/network.png)
+![The final network](img/network.png){: width="958" height="871"}
 _Image on top, audio below, one GLSL TOP._
 
 <details class="contraband" markdown="1">

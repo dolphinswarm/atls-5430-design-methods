@@ -37,7 +37,7 @@ There are several aspects of the restaurant that build on "blindness":
 
 Each choice hands the work sight normally does over to touch, sound, smell, and taste.
 
-![O.Noir in Toronto](img/onoir.png)
+![O.Noir in Toronto](img/onoir.png){: width="1600" height="1200"}
 _O.Noir in Toronto, Canada._
 
 ### 💭Reflection on the Experience
@@ -72,7 +72,7 @@ Leaving is where there's room to do something about it. It's short (under five m
 
 When you think DMV, you think fluorescent lights, plastic chairs, TVs with queues, cubicles, and bland coloration:
 
-![DMV Lobby](img/dmv-lobby.png)
+![DMV Lobby](img/dmv-lobby.png){: width="2500" height="1667"}
 _A typical DMV lobby._
 
 So the starting idea was to subvert all of that, pull in some car inspiration, and avoid the "spa" stereotypes: ambient music, trickling fountains, lavender diffusers, smooth stones, etc.
@@ -83,7 +83,7 @@ Since people leaving just want to get to their car, it can't ask anything of the
 
 ### 🗺️Look & Feel: Annotated Diagram
 
-![Annotated diagram of the space](img/diagram.png)
+![Annotated diagram of the space](img/diagram.png){: width="1904" height="1660"}
 _The Off-Ramp floor plan._
 
 The Off-Ramp is one straight hallway along the building's right wall, running from the counter to the parking lot. A giant padded door with a car door handle seals it off from the lobby, and acoustic panels line the walls, so it's quiet inside and private enough to rage/vent. The light is warm and dim the whole way, with a skylight by the exit, and since it's a single hallway, the light never has to guide anyone anywhere. A giant pine air freshener hangs by the exit too, kept faint so it doesn't overwhelm people. Two things are optional and off to the side (a chill nook and mints); everything else just happens as you walk past it.
@@ -92,26 +92,26 @@ The Off-Ramp is one straight hallway along the building's right wall, running fr
 
 At the end of the hall, there's a giant pine air freshener (like many people have in their cars) to really sell the idea of the "car door effect" and help calm individuals. Here's my prototype of this:
 
-![Sensory prototype](img/sensory-prototype.jpg)
+![Sensory prototype](img/sensory-prototype.jpg){: width="929" height="2011"}
 _The giant pine air freshener for the sensory prototype._
 
 <details class="contraband" markdown="1">
   <summary>View the making process</summary>
   <div class="body" markdown="1">
 
-![Materials laid out on a desk](img/tree-1.jpg)
+![Materials laid out on a desk](img/tree-1.jpg){: width="2231" height="1031"}
 _The materials: green and tan construction paper, twine, scissors, a ruler, and Thymes Frasier Fir linen spray for the scent._
 
-![Measuring and folding the green construction paper](img/tree-2.jpg)
+![Measuring and folding the green construction paper](img/tree-2.jpg){: width="1081" height="2339"}
 _Measuring and folding the green construction paper to "plan out" the tree._
 
-![Cutting the tree shape from the folded construction paper](img/tree-3.jpg)
+![Cutting the tree shape from the folded construction paper](img/tree-3.jpg){: width="1048" height="2268"}
 _Cutting the tree's outline from the folded edge, so both halves come out matching._
 
-![The cut-out tree unfolded](img/tree-4.jpg)
+![The cut-out tree unfolded](img/tree-4.jpg){: width="939" height="2032"}
 _The unfolded tree, with a hole cut at the top for the twine._
 
-![Spraying the tree with fir linen spray](img/tree-5.jpg)
+![Spraying the tree with fir linen spray](img/tree-5.jpg){: width="1085" height="2348"}
 _Spraying the tree with the fir scent._
 
   </div>
@@ -119,7 +119,7 @@ _Spraying the tree with the fir scent._
 
 ### 🎬Role: Storyboard
 
-![Storyboard of the space in use](img/storyboard.jpg)
+![Storyboard of the space in use](img/storyboard.jpg){: width="3504" height="2544"}
 _The storyboard of an example person's trip to the DMV and using the Off-Ramp._
 
 My storyboard for this follows a hypothetical guy at the DMV. He's been sitting in the lobby forever, listening to other people's tickets be called, anxiously waiting. However, when he finally gets to the counter, he's told he's missing a form and can't finish his registration there. Great, now he has to come back and do it all over next week. Normally that means walking back through the lobby, past everyone still waiting who saw his mistake. Instead, he grabs the car door handle on the exit by the counter, and the door shuts behind him with a _WHAM_. The PA calls and chatter are gone, so he lets it out: some yelling, some cursing, and nobody in the lobby hears any of it. Once that's out of his system, the hallway starts working on him. It's quiet, the light is warm, and he drops into one of the padded seats in the chill nook for a few minutes. On the way out he passes the giant pine tree, grabs a mint, and walks out into the daylight. He still has to come back, but he isn't taking it out on the drive home.

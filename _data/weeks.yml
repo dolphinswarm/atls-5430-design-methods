@@ -1,0 +1,70 @@
+# The list of weeks. Drives the home page index and the previous/next links
+# at the bottom of every week page. Add one entry per new week, in order.
+#
+#   num:   two-digit week number, shown large on the home page
+#   title: link text
+#   url:   the week's folder, with a trailing slash
+#   note:  one line under the title on the home page
+#   thumb: 640x400 image in assets/thumbs/
+#   wip:   true while the week is still in progress (shows 🏗️)
+
+- num: "01"
+  title: Magical Interface
+  url: week-1-magical-interface/
+  note: A pen + sand interface, from partner interview to high-fidelity prototype.
+  thumb: assets/thumbs/week-01.jpg
+
+- num: "02"
+  title: Future of Visual Design
+  url: week-2-future-of-visual-design/
+  note: An identity for a surviving "security" company under a post-brand regime.
+  thumb: assets/thumbs/week-02.jpg
+
+- num: "03"
+  title: Teach Me, Teach You
+  url: week-3-teach-me-teach-you/
+  note: Testing a partner's visual instructions, then teaching myself a new tool.
+  thumb: assets/thumbs/week-03.jpg
+
+- num: "04"
+  title: Trust the Process
+  url: week-4-trust-the-process/
+  note: Redrawing a partner's map of how I learn, then mining it for friction.
+  thumb: assets/thumbs/week-04.jpg
+
+- num: "05"
+  title: Cognitive Reloading
+  url: week-5-cognitive-reloading/
+  note: A prototype app that gradually hands cognitive work back to the user.
+  thumb: assets/thumbs/week-05.jpg
+
+- num: "06"
+  title: Multisensory Space
+  url: week-6-multisensory-space/
+  note: Reflecting on a non-visual experience, then designing a space to decompress.
+  thumb: assets/thumbs/week-06.jpg
+
+- num: "08"
+  title: Imagined Affordances and Signifiers
+  url: week-8-imagined-affordances-and-signifiers/
+  note: Spotting failed affordances and signifiers in the wild, then redesigning.
+  thumb: assets/thumbs/week-08.jpg
+
+- num: "09"
+  title: Hot Dog Bar
+  url: week-9-hot-dog-bar/
+  note: Planning a festival hot dog bar in the ATLAS lobby.
+  thumb: assets/thumbs/week-09.jpg
+
+- num: "10"
+  title: Skills Growth Milestone
+  url: week-10-skills-growth-milestone/
+  note: A new SMART goal in TouchDesigner, a plan, and how it went.
+  thumb: assets/thumbs/week-10.jpg
+
+- num: "11"
+  title: "Sketch Design: Green Machines"
+  url: week-11-sketch-design-green-machines/
+  note: A mini-swamp at the end of farm drains, to filter water like the Great Black Swamp once did.
+  thumb: assets/thumbs/week-11.jpg
+  wip: true

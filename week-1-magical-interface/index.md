@@ -37,7 +37,7 @@ The PEN has two main features:
 1. Allows the user to adjust the course content for _themselves_, changing their perception of words on a slide deck, words from a professor's mouth, etc. This would have two axes of control for course delivery and content, giving users a single screen for controlling multiple aspects of a lecture.
 2. A magic 3D sandbox, which will use magic sand to generate a 3D model of a specific topic in a lecture, allowing students to feel any item typed into it. Said model would take on the properties of the object within safe boundaries. For example, I could generate a shark and its teeth would feel like real shark teeth, but I couldn't accidentally cut myself on said teeth. The content is controlled by a prompt box.
 
-![Initial sketches](img/initial-sketch.jpg)
+![Initial sketches](img/initial-sketch.jpg){: width="4000" height="1848"}
 _The initial sketch with notes._
 
 ## 🔁Feedback and Second Prototype
@@ -49,7 +49,7 @@ Annaleise's feedback for this device was:
 
 Thus, I present - the updated PEN!
 
-![PEN](img/PEN-render.png)
+![PEN](img/PEN-render.png){: width="1920" height="1080"}
 _A static render of the PEN._
 
 <div class="model-embed">
@@ -76,14 +76,14 @@ The first feedback item, the content picker, was updated to use _"slower ↔ fas
 
 Also, I made the background a gradient, so the color present in the picker should be a vague indication of what setting a user is on. While vague (green = slower and factual?), it should at least look pretty for a background of this UI.
 
-![Content Picker](img/screen-content-chooser.png)
+![Content Picker](img/screen-content-chooser.png){: width="1024" height="1024"}
 _The updated content picker._
 
 #### 🎙️Sand Pit Picker
 
 The sand pit picker also incorporates the feedback. Buttons for relevant prompts, as well as a button for custom audio-driven prompts, are also included.
 
-![Sand Pit Picker](img/screen-sand-chooser.png)
+![Sand Pit Picker](img/screen-sand-chooser.png){: width="1080" height="1080"}
 _The updated sand pit picker._
 
 ## 💭Reflection

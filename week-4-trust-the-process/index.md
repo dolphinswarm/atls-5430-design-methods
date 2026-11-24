@@ -26,7 +26,7 @@ that friction to work during another round of technical learning this week._
 
 ## 🗺️Part 1: Silas' Artifact
 
-![Partner's artifact](img/silas-artifact.png)
+![Partner's artifact](img/silas-artifact.png){: width="1766" height="468"}
 _The artifact Silas made after interviewing me about how I learn, using music as a framing device._
 
 When Silas interviewed me, I used music as my reference point for learning. Over the past 5ish years, the most learning I've done has been in a music capacity: learning new instruments (banjo, Irish bouzouki), improving skills at existing instruments (guitar, bass), learning how to write songs (chord progressions, lyrics), performance (live and recorded), and collaborating with other musicians.
@@ -37,7 +37,7 @@ Most recently, back in July I bought an [Irish bouzouki](https://en.wikipedia.or
 
 ## ✍️Part 2: My Artifact
 
-![My artifact](img/brad-artifact.png)
+![My artifact](img/brad-artifact.png){: width="1600" height="900"}
 _My version of Silas' artifact, redrawn to reflect my actual learning process. Red is motivation and green is skill. The low is "lose motivation," the friction is the "get annoyed" stretch (see [Part 3](#part-3-where-the-friction-lives)), and the peak is the open mic._
 
 This is the version of the artifact that I created to more accurately represent my learning process with a new instrument. Some notable changes:

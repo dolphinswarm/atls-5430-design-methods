@@ -1,6 +1,8 @@
 ---
 title: Future of Visual Design
 description: Week 02 · An identity for a surviving "security" company under a post-brand regime
+# The client's typeface, for the specimens and palette on this page only.
+extra_fonts: family=Space+Grotesk:wght@400;500;600;700
 ---
 
 [← All weeks](../)
@@ -36,7 +38,7 @@ While there are many _splendid_ companies to choose from in this area of technol
 
 ## 🖼️Mood Board
 
-![Mood board](img/evil-eye-moodboard.png)
+![Mood board](img/evil-eye-moodboard.png){: width="1601" height="854"}
 
 _The mood board for this company._
 
@@ -89,11 +91,11 @@ As I said above, the symbol is an eye. While obvious, I feel like an eye is stil
 
 <div style="display: flex; gap: 1rem; align-items: flex-start; margin: 1rem 0;">
   <figure style="flex: 1; margin: 0;">
-    <img src="img/evil-eye-v3.png" alt="Iris-lens mark study full color" style="width: 100%; height: auto;">
+    <img src="img/evil-eye-v3.png" width="417" height="178" alt="Iris-lens mark study full color" style="width: 100%; height: auto;">
     <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 0.4rem;">Full color</figcaption>
   </figure>
   <figure style="flex: 1; margin: 0;">
-    <img src="img/evil-eye-v3-monocolor.png" alt="Iris-lens mark study one color" style="width: 100%; height: auto;">
+    <img src="img/evil-eye-v3-monocolor.png" width="417" height="178" alt="Iris-lens mark study one color" style="width: 100%; height: auto;">
     <figcaption style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 0.4rem;">Single color</figcaption>
   </figure>
 </div>
@@ -147,7 +149,7 @@ Also, for the sake of having a "product" to sell, I'm going to claim that after 
 
 ### 🏪Storefront
 
-![Storefront](img/storefront-v2.png)
+![Storefront](img/storefront-v2.png){: width="522" height="455"}
 
 _A sample Always-Watching Safety Cameras storefront. The eye stands in for the dot on the "i" in "Watching" (a peer feedback suggestion). "Safety" is set in bold because it's the friendliest word, so it's the one the propaganda leans on. Green is saved for the awning and the eye._
 
@@ -155,13 +157,13 @@ _A sample Always-Watching Safety Cameras storefront. The eye stands in for the d
   <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
   <div class="body">
     <p class="stamp">Restricted &middot; Photoreal reference &middot; Storefront &middot; Viewing logged and retained</p>
-    <img src="img/storefront-pr.png" alt="Photorealistic storefront render, non-compliant under the regime's imagery ban">
+    <img src="img/storefront-pr.png" width="1196" height="896" alt="Photorealistic storefront render, non-compliant under the regime's imagery ban">
   </div>
 </details>
 
 ### 📦Product with Packaging
 
-![Package](img/package.png)
+![Package](img/package.png){: width="522" height="522"}
 
 _A sample Always-Watching Safety Cameras package. The aperture eye takes one face and the three-word name takes the other, with nothing else on the box, per the regime's word limit._
 
@@ -169,13 +171,13 @@ _A sample Always-Watching Safety Cameras package. The aperture eye takes one fac
   <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
   <div class="body">
     <p class="stamp">Restricted &middot; Photoreal reference &middot; Packaging &middot; Viewing logged and retained</p>
-    <img src="img/product-pr.png" alt="Photorealistic product-packaging render, non-compliant under the regime's imagery ban">
+    <img src="img/product-pr.png" width="1186" height="703" alt="Photorealistic product-packaging render, non-compliant under the regime's imagery ban">
   </div>
 </details>
 
 ### 🎥Sample Product: Camera
 
-![Camera](img/camera.png)
+![Camera](img/camera.png){: width="512" height="454"}
 
 _A sample Always-Watching Safety Cameras camera. The aperture eye sits on the housing, and the green status light is the only color on the unit, echoing the green accent from the rest of the system._
 
@@ -183,7 +185,7 @@ _A sample Always-Watching Safety Cameras camera. The aperture eye sits on the ho
   <summary>View illegal, non-compliant imagery with a previous "symbol" iteration</summary>
   <div class="body">
     <p class="stamp">Restricted &middot; Photoreal reference &middot; Camera unit &middot; Viewing logged and retained</p>
-    <img src="img/camera-pr.png" alt="Photorealistic camera render, non-compliant under the regime's imagery ban">
+    <img src="img/camera-pr.png" width="1536" height="1152" alt="Photorealistic camera render, non-compliant under the regime's imagery ban">
   </div>
 </details>
 
@@ -197,7 +199,7 @@ Some points of feedback included:
 
 - **Make the storefront more readable and visually engaging**: I agree wholeheartedly. For reference, here's the old mockup:
 
-  ![Storefront](img/storefront.png)
+  ![Storefront](img/storefront.png){: width="522" height="455"}
 
   _The old store mockup._
 
@@ -248,11 +250,11 @@ Some points of feedback included:
 - **Make the eye look more robotic/simplify the design for smaller sizes**: I agree with this one too; I think the earlier attempts at this were too complex. Getting feedback from multiple people on this made me re-think how the eye could subtly be more mechanical and evil, and what I found was using a literal camera aperture design worked best. It's a) simpler / less lines, so it'll look less cluttered at smaller sizes, and b) more related to cameras.
 
 <div class="flow">
-  <img src="img/evil-eye.png" alt="Evil eye, version 1: a detailed illustrative human eye with full lashes and a fine green radial iris">
+  <img src="img/evil-eye.png" width="611" height="373" alt="Evil eye, version 1: a detailed illustrative human eye with full lashes and a fine green radial iris">
   <span aria-hidden="true">&rarr;</span>
-  <img src="img/evil-eye-v2.png" alt="Evil eye, version 2: a single-stroke lid with sharp feather lashes and a spoked-wheel iris">
+  <img src="img/evil-eye-v2.png" width="417" height="194" alt="Evil eye, version 2: a single-stroke lid with sharp feather lashes and a spoked-wheel iris">
   <span aria-hidden="true">&rarr;</span>
-  <img src="img/evil-eye-v3.png" alt="Evil eye, version 3: a solid iris disc with a hexagonal camera aperture cut into it">
+  <img src="img/evil-eye-v3.png" width="417" height="178" alt="Evil eye, version 3: a solid iris disc with a hexagonal camera aperture cut into it">
   <p><b>v1</b> The original design.</p>
   <p><b>v2</b> A slight re-design for the draft submission, dropping the thick eyelids for one thinner top eyelid, meant to emphasize the iris more.</p>
   <p><b>v3</b> The peer feedback revision, shrinking the iris a tad to make it fit within bounds better and swapping the inner design for a camera aperture.</p>

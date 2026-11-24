@@ -1,8 +1,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap">
-
-<meta name="theme-color" content="#1f1c17">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap">
+{%- if page.extra_fonts %}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?{{ page.extra_fonts }}&display=swap">
+{%- endif %}
 
 <script>
   // Set the theme before first paint so there is no flash of the wrong mode.
@@ -20,20 +21,19 @@
 </script>
 
 <script>
-  // Build a persistent light/dark toggle and wire it to localStorage.
+  // Wire the header's "Dark mode" toggle (markup in _layouts/default.html).
+  // Its name stays "Dark mode"; aria-pressed carries the on/off state.
   (function () {
-    function build() {
+    function wire() {
       var root = document.documentElement;
-      var btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "theme-toggle";
+      var btn = document.querySelector(".theme-toggle");
+      if (!btn) return;
+      var icon = btn.querySelector(".theme-toggle-icon");
 
       function sync() {
         var dark = root.getAttribute("data-theme") === "dark";
-        btn.textContent = dark ? "☀" : "☾"; // sun / moon
-        btn.title = dark ? "Switch to light mode" : "Switch to dark mode";
-        btn.setAttribute("aria-label", btn.title);
         btn.setAttribute("aria-pressed", String(dark));
+        if (icon) icon.textContent = dark ? "☀" : "☾"; // sun / moon
       }
 
       btn.addEventListener("click", function () {
@@ -44,13 +44,12 @@
       });
 
       sync();
-      document.body.appendChild(btn);
     }
 
     if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", build);
+      document.addEventListener("DOMContentLoaded", wire);
     } else {
-      build();
+      wire();
     }
   })();
 </script>
@@ -63,7 +62,7 @@
   (function () {
     function build() {
       var images = Array.from(document.querySelectorAll(".main-content img"))
-        .filter(function (img) { return !img.closest("a"); });
+        .filter(function (img) { return !img.closest("a, .week-index"); });
       if (!images.length) return;
 
       var dialog = document.createElement("dialog");
@@ -138,22 +137,23 @@
   })();
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
 <script>
-  // Kramdown turns a ```mermaid fence into <pre><code class="language-mermaid">
-  // (no wrapping div here — this site's Kramdown build skips Rouge's div
-  // wrapper). Convert whichever shape shows up to the <pre class="mermaid">
-  // Mermaid expects, then render. Re-renders on theme toggle since Mermaid
-  // bakes colors into the SVG at render time. A no-op on pages with no
-  // mermaid blocks, so it's safe to include everywhere.
+  // Mermaid diagrams. Kramdown turns a ```mermaid fence into
+  // <pre><code class="language-mermaid"> (this site's build skips Rouge's div
+  // wrapper). The library is only fetched on pages that have one of those
+  // blocks, so every other page skips the download. Blocks are converted to
+  // the <pre class="mermaid"> shape Mermaid expects, rendered, and re-rendered
+  // on theme toggle since Mermaid bakes colors into the SVG. If the script
+  // fails to load, the diagram source stays on the page as plain text.
   (function () {
+    var MERMAID_SRC = "https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js";
+
     function currentTheme() {
       return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "default";
     }
 
     function findMermaidCode() {
       var nodes = new Set();
-      document.querySelectorAll("code.language-mermaid").forEach(function (c) { nodes.add(c); });
       document.querySelectorAll(".language-mermaid").forEach(function (el) {
         var code = el.tagName === "CODE" ? el : el.querySelector("code");
         if (code) nodes.add(code);
@@ -161,32 +161,37 @@
       return Array.from(nodes);
     }
 
-    function convertBlocks() {
-      findMermaidCode().forEach(function (code) {
-        var pre = document.createElement("pre");
-        pre.className = "mermaid";
-        pre.textContent = code.textContent;
-        (code.closest("pre") || code).replaceWith(pre);
-      });
-    }
-
     function render() {
       var blocks = document.querySelectorAll(".mermaid");
-      if (!blocks.length) return;
       blocks.forEach(function (block) {
         if (!block.dataset.src) block.dataset.src = block.textContent;
         block.removeAttribute("data-processed");
         block.textContent = block.dataset.src;
       });
-      mermaid.initialize({ startOnLoad: false, theme: currentTheme() });
-      mermaid.run({ nodes: blocks });
+      window.mermaid.initialize({ startOnLoad: false, theme: currentTheme() });
+      window.mermaid.run({ nodes: blocks });
     }
 
     function init() {
-      convertBlocks();
-      render();
-      var toggle = document.querySelector(".theme-toggle");
-      if (toggle) toggle.addEventListener("click", render);
+      var codes = findMermaidCode();
+      if (!codes.length) return;
+
+      codes.forEach(function (code) {
+        var pre = document.createElement("pre");
+        pre.className = "mermaid";
+        pre.textContent = code.textContent;
+        (code.closest("pre") || code).replaceWith(pre);
+      });
+
+      var script = document.createElement("script");
+      script.src = MERMAID_SRC;
+      script.async = true;
+      script.onload = function () {
+        render();
+        var toggle = document.querySelector(".theme-toggle");
+        if (toggle) toggle.addEventListener("click", render);
+      };
+      document.head.appendChild(script);
     }
 
     if (document.readyState === "loading") {

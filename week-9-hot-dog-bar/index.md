@@ -36,7 +36,7 @@ Cocktails are part of the experience too. Alongside their dog, guests 21 and ove
 
 ## 🗺️Floor Plan
 
-![ATLAS lobby floor plan](img/floor-plan.png)
+![ATLAS lobby floor plan](img/floor-plan.png){: width="996" height="1707"}
 _The ATLAS lobby floor plan for the hot dog bar._
 
 The lobby is set up cocktail-style, with 13 small standing tables in a staggered layout. This encourages the guests to mingle, making the most of their time at _Whaaat!?_ instead of having to make their own hot dog and sit in a dedicated seat. Since guests won't be sitting down, the tables are spaced to allow servers to move freely and avoid bottlenecks. The two hot dog rollers are located in a "kitchen" area, where servers can build the hot dogs and hand them out to guests. Each table has a brass card holder, with several order cards, and a few feather pens, where guests can fill out a card with their desired toppings. A server will then pick up the card and bring it to the "kitchen", where the hot dog is built and delivered to the guest, based on the numbered placard at their table.
@@ -71,7 +71,7 @@ There's a metric poopload of toppings available for the hot dogs. After all, _Wh
 
 Since servers are making the hot dogs instead of guests, the bar layout becomes twofold: organizing the condiments on the order card (for guests), and arranging the condiments in the kitchen (for servers). Being themed as a black-tie fancy gala, the toppings are organized into social status tiers, based both on the "fanciness" of the toppings, and the "profession" of a person where the topping might have come from. This can be seen on the order card, which is laid out in two columns with the toppings organized in this way:
 
-![Order card](img/order-card.png)
+![Order card](img/order-card.png){: width="750" height="2269"}
 _The order card._
 
 At the top of the card, guests choose their frank (all-beef or plant-based) and bun (classic, brioche, pretzel, gluten-free, or none), then check off toppings by tier. The tiers are as follows:
@@ -100,7 +100,7 @@ Citizen and Hero passes come with a _Whaaat!?_ passport, which is how servers ve
 
 As mentioned above, the condiment bar technically still exists behind-the-scenes in Fen's Cafe, where only servers use it. The condiments are set up in a line, in the same order as the order card, so servers can just follow the card down the line for linear, intuitive hot dog assembly:
 
-![Fen's Cafe station layout](img/fens-cafe.png)
+![Fen's Cafe station layout](img/fens-cafe.png){: width="997" height="1599"}
 _Fen's Cafe, set up as the kitchen. Stations follow the order card, from the rollers to the Noble case and the bar._
 
 The order card also tags each topping as vegan, vegetarian, gluten-free, containing nuts, or shellfish, so guests with dietary needs can check before they order, or mention it on their "Special Requests" on the order card. On the line, peanut butter and the shellfish each get their own utensils, so they don't cross-contaminate other toppings.
@@ -113,7 +113,7 @@ The ask here is for a hot dog _bar_, so naturally, a bar should have alcoholic b
 
 Meet _The Old Frankshioned_: a hot dog flavored Old Fashioned. It's built on whiskey that's been infused with actual hot dogs, with a splash of Doritos liquor and pickle shot to really round out the ballpark flavors. An Old Fashioned is the classic black-tie whiskey (or bourbon) drink, which fits the gala theme, and it's spirit-forward, so the hot dog infusion is front and center. To cut down on preparation time, the cocktail is pre-batched, so servers just pour it over ice and add the garnish, rather than having to mix it from scratch for each order.
 
-![The Old Frankshioned](img/prototype-step-3-garnished.jpg)
+![The Old Frankshioned](img/prototype-step-3-garnished.jpg){: width="937" height="2029"}
 
 ### 🍸The Recipe
 
@@ -136,7 +136,7 @@ Meet _The Old Frankshioned_: a hot dog flavored Old Fashioned. It's built on whi
 
 The base of the cocktail is a homemade hot dog-infused whiskey:
 
-![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg)
+![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg){: width="1013" height="2192"}
 _Crown Royal Blenders' Mash, loaded with hot dog._
 
 To make this, I first boiled the glizzies to cook them through, then seared them in a pan for some extra flavor. After slicing them into small coins, I fed them into a bottle of whiskey. I used Crown Royal Blenders' Mash since I had it on hand (thank you Jay), but any whiskey will do; infusions tend to do better with higher-proofs, so my personal recommendation is Wild Turkey 101. The bottle then steeped for 24-48 hours, allowing the hot dog flavor to dissolve into the whiskey.
@@ -145,34 +145,34 @@ To make this, I first boiled the glizzies to cook them through, then seared them
   <summary>View the infusion process</summary>
   <div class="body" markdown="1">
 
-![Glizzies boiling in a saucepan](img/infusion-step-1-boil.jpg)
+![Glizzies boiling in a saucepan](img/infusion-step-1-boil.jpg){: width="956" height="2068"}
 _Step 1: Boiling the glizzies to cook them through._
 
-![Glizzies in a frying pan](img/infusion-step-2-sear.jpg)
+![Glizzies in a frying pan](img/infusion-step-2-sear.jpg){: width="873" height="1889"}
 _Step 2: Searing the glizzies in a pan for some extra flavor._
 
-![Cooked glizzies on a cutting board](img/infusion-step-3-cooked.jpg)
+![Cooked glizzies on a cutting board](img/infusion-step-3-cooked.jpg){: width="1087" height="2353"}
 _Step 3: The cooked glizzies, ready for slicing._
 
-![Glizzies sliced into coins](img/infusion-step-4-slice.jpg)
+![Glizzies sliced into coins](img/infusion-step-4-slice.jpg){: width="898" height="1944"}
 _Step 4: Slicing the glizzies into coins, small enough to fit through the bottle's neck, with more surface area for the whiskey to soak into._
 
-<video src="img/infusion-step-5-bottling.mp4" poster="img/infusion-step-5-bottling.jpg" controls muted playsinline preload="none"></video>
+<video src="img/infusion-step-5-bottling.mp4" width="1080" height="1920" poster="img/infusion-step-5-bottling.jpg" controls muted playsinline preload="none"></video>
 _Step 5: Feeding the coins into the bottle, one by one._
 
-![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg)
+![The whiskey bottle loaded with hot dog pieces](img/infusion-step-6-loaded.jpg){: width="1013" height="2192"}
 _Step 6: The bottle, fully loaded._
 
-![Hot dog pieces steeping in the whiskey](img/infusion-step-7-steeping.jpg)
+![Hot dog pieces steeping in the whiskey](img/infusion-step-7-steeping.jpg){: width="931" height="2015"}
 _Step 7: Steeping in the whiskey._
 
-![The bottle after infusing](img/infusion-step-8-infused.jpg)
+![The bottle after infusing](img/infusion-step-8-infused.jpg){: width="878" height="1901"}
 _Step 8: Done infusing._
 
-<video src="img/infusion-step-9-inspecting.mp4" poster="img/infusion-step-9-inspecting.jpg" controls muted playsinline preload="none"></video>
+<video src="img/infusion-step-9-inspecting.mp4" width="1080" height="1920" poster="img/infusion-step-9-inspecting.jpg" controls muted playsinline preload="none"></video>
 _Step 9: A closer look at the glizzy coins after infusing._
 
-<video src="img/infusion-step-10-straining.mp4" poster="img/infusion-step-10-straining.jpg" controls muted playsinline preload="none"></video>
+<video src="img/infusion-step-10-straining.mp4" width="1080" height="1920" poster="img/infusion-step-10-straining.jpg" controls muted playsinline preload="none"></video>
 _Step 10: Straining the whiskey into a decanter, leaving the glizzies behind._
 
   </div>
@@ -184,20 +184,20 @@ Once it was done infusing, I strained the whiskey through a funnel strainer into
 
 With the hot dog whiskey ready, I made a prototype of The Old Frankshioned at home, following the recipe above:
 
-![The finished Old Frankshioned with its ingredients](img/prototype-step-5-final.jpg)
+![The finished Old Frankshioned with its ingredients](img/prototype-step-5-final.jpg){: width="875" height="1894"}
 _The Old Frankshioned prototype, with everything that went into it._
 
 <details class="contraband" markdown="1">
   <summary>View the making process</summary>
   <div class="body" markdown="1">
 
-![The cocktail ingredients lined up on the counter](img/prototype-step-1-ingredients.jpg)
+![The cocktail ingredients lined up on the counter](img/prototype-step-1-ingredients.jpg){: width="1944" height="898"}
 _Step 1: The ingredients: the hot dog whiskey (in a decanter), Angostura bitters, Empirical x Doritos, The Original Pickle Shot, and maple syrup._
 
-<video src="img/prototype-step-2-mixing.mp4" poster="img/prototype-step-2-mixing.jpg" controls muted playsinline preload="none"></video>
+<video src="img/prototype-step-2-mixing.mp4" width="1280" height="720" poster="img/prototype-step-2-mixing.jpg" controls muted playsinline preload="none"></video>
 _Step 2: Measuring each ingredient into the glass over ice, then stirring._
 
-![The garnished Old Frankshioned](img/prototype-step-3-garnished.jpg)
+![The garnished Old Frankshioned](img/prototype-step-3-garnished.jpg){: width="937" height="2029"}
 _Step 3: Garnished with a glizzy and a pickle on a pick._
 
   </div>
@@ -207,7 +207,7 @@ _Step 3: Garnished with a glizzy and a pickle on a pick._
 
 Since the cocktail is pre-batched, guests never actually see it get built; it just shows up at their table. So instead of a sign at the bar, the "sign" is the coaster the drink is served on. It rides out on the cloche tray with the glass already sitting on it, so the answer to "wait, what am I drinking?" is right there when the guest asks it. It's also theirs to keep, so it doubles as a take-home souvenir.
 
-![The Old Frankshioned coaster, front and back](img/coaster.png)
+![The Old Frankshioned coaster, front and back](img/coaster.png){: width="1248" height="600"}
 _The coaster, front (left) and back (right)._
 
 It's a 4" square coaster in the same black-and-gold style as the order card and placard:
@@ -218,7 +218,7 @@ It's a 4" square coaster in the same black-and-gold style as the order card and 
 
 ### 👅Tasting Notes
 
-<video src="img/prototype-step-4-tasting.mp4" poster="img/prototype-step-4-tasting.jpg" controls muted playsinline preload="none"></video>
+<video src="img/prototype-step-4-tasting.mp4" width="1080" height="1920" poster="img/prototype-step-4-tasting.jpg" controls muted playsinline preload="none"></video>
 _The first sip._
 
 I was all geared up to use the "It tastes like burning!" clip by Ralph Wiggum from _The Simpsons_ as a reaction to the first sip, but it was a resounding... not terrible. It's not good by any means, but it tastes like a hot dog thanks to the combo of infused whiskey, Doritos liquor, and pickle shot, so... lives up to the name. It's a weird mix of sweet and salty/briny, and doesn't particularly strike me as being an Old Fashioned variant, but it'd at least would be a fun thing for people to try at the festival.
@@ -227,7 +227,7 @@ I was all geared up to use the "It tastes like burning!" clip by Ralph Wiggum fr
 
 Pierce's specialty is an off-menu special: a plate of mini hot dogs, loaded up nachos-style. It isn't printed on the order card; instead, the sign stands on every table next to the card holder, as a pre-built option for guests who'd rather not build their own. To order it, guests just write it under "Special Requests." Every topping already lives on the line in Fen's Cafe, so the kitchen doesn't need to stock anything new beyond the mini dogs.
 
-![The Nacho Average Dog sign](img/specialty-sign.png)
+![The Nacho Average Dog sign](img/specialty-sign.png){: width="600" height="664"}
 _The Nacho Average Dog build sign._
 
 The sign uses the same black-and-gold style as the rest of the bar, with a stacked diagram of the plate and each layer labeled, so it reads "build it from the plate up":
@@ -246,7 +246,7 @@ Our challenge is a Clue-style mystery. At the beginning of the event, it's annou
 
 Anyone who orders the very same dog as Danny receives the _Great Minds Frank Alike_ award, delivered on the cloche tray alongside their dog, and signed and dated by Danny. Whoever matches Danny's order first is also henceforth known as the "Glizzy Sleuth" for the rest of the event.
 
-![The Great Minds Frank Alike award](img/danny-award.png)
+![The Great Minds Frank Alike award](img/danny-award.png){: width="760" height="580"}
 _The Great Minds Frank Alike award, presented to guests who match Danny's order._
 
 To keep the mystery from getting in anyone's way, every clue hides in something the festival already hands out or shows, rather than on new signage. Each one is marked with the same small gold hot dog emblem from the top of the order card, so players learn to spot them, while everyone else just sees a cute logo. Where possible, the clue also matches its location (the cereal clue lives at the cereal breakfast, for example). Any clue that's essential to solving the mystery lives somewhere every pass type can reach, since Tourists don't get passports.

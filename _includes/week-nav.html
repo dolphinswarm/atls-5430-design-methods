@@ -1,0 +1,30 @@
+{%- comment -%}
+  Previous / next week links, from _data/weeks.yml. Renders nothing on pages
+  that aren't listed there (like the home page).
+{%- endcomment -%}
+{%- assign weeks = site.data.weeks -%}
+{%- assign idx = nil -%}
+{%- for w in weeks -%}
+  {%- assign wurl = '/' | append: w.url -%}
+  {%- if wurl == page.url -%}{%- assign idx = forloop.index0 -%}{%- endif -%}
+{%- endfor -%}
+{%- if idx != nil -%}
+  {%- assign prev_i = idx | minus: 1 -%}
+  {%- assign next_i = idx | plus: 1 -%}
+<nav class="week-nav" aria-label="Weeks">
+  {%- if idx > 0 -%}
+    {%- assign p = weeks[prev_i] %}
+  <a class="week-nav-link week-nav-prev" href="{{ p.url | relative_url }}" rel="prev">
+    <span class="week-nav-dir">← Previous</span>
+    <span class="week-nav-title"><span class="week-num">{{ p.num }}</span> {{ p.title }}</span>
+  </a>
+  {%- endif -%}
+  {%- if next_i < weeks.size -%}
+    {%- assign n = weeks[next_i] %}
+  <a class="week-nav-link week-nav-next" href="{{ n.url | relative_url }}" rel="next">
+    <span class="week-nav-dir">Next →</span>
+    <span class="week-nav-title"><span class="week-num">{{ n.num }}</span> {{ n.title }}</span>
+  </a>
+  {%- endif %}
+</nav>
+{%- endif -%}

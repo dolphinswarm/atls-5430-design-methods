@@ -12,6 +12,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - anti-slop # design audit notes, kept in the repo but not published
 
 # --- Plugins ---
 plugins:

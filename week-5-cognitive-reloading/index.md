@@ -86,7 +86,7 @@ Also, another "humorous" concept related to rocks is [pet rocks](https://en.wiki
 
 ## ✏️20-Minute Sketch
 
-![Weather Rock sketches](img/sketches.jpg)
+![Weather Rock sketches](img/sketches.jpg){: width="1838" height="2671"}
 _My 20-minute sketches for Weather Rock: the check-in loop, right/wrong results, no check-in, and the severe weather alert._
 
 I wanted to lean heavily into the "virtual pet" with this, so making the driving approach "caring" for the rock feeds into the usage of the app. Visually, it should also reflect the "weather rock" rules above; i.e., after predicting, a rock should be covered in snow if it is snowing.
